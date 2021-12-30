@@ -7,8 +7,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'GeyserTimes Documentation',
   tagline: 'GeyserTimes documentation for users, researchers and developers alike.',
-  url: 'https://geysertimes.github.io/docs',
-  baseUrl: '/',
+  url: 'https://geysertimes.github.io',
+  baseUrl: '/docs/',
   trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -74,8 +74,16 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'For Users',
+                to: '/users/intro',
+              },
+              {
+                label: 'For Researchers',
+                to: '/researchers/intro',
+              },
+              {
+                label: 'For Developers',
+                to: '/devs/intro',
               },
             ],
           },
@@ -83,16 +91,20 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Email – support@geysertimes.org',
+                href: 'mailto:support@geysertimes.org',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Facebook – facebook.com/GeyserTimes',
+                href: 'https://facebook.com/GeyserTimes',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Telegram – t.me/geysertimes',
+                href: 'https://t.me/geysertimes',
+              },
+              {
+                label: 'Medium – medium.com/geysertimes',
+                href: 'https://medium.com/geysertimes',
               },
             ],
           },
@@ -100,12 +112,8 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/geysertimes/docs',
               },
             ],
           },

@@ -17,4 +17,4 @@ jobs:
       - name: Build website
         run: |
           npm ci
-          npm build
+          npm run build
