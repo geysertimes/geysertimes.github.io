@@ -17,11 +17,11 @@ Thank you for using the GeyserTimes platform. These terms cover your use of serv
 * the GeyserTimes dashboard and webcam chat, and 
 * the GeyserTimes assistants for Google Assistant and Amazon Alexa;
 
-(together, the **“Services”**).
+(together, the **"Services"**).
 
 #### Section A1.02 Service Provider
 
-The entity providing the Services is GeyserTimes, a nonprofit organization (Employer Identification Number: 84-3245322) located in  Salt Lake City, Utah 84116, United States of America (referred to as **“GeyserTimes”**, **“we”**, **“us”**, or **“our”**).
+The entity providing the Services is GeyserTimes, a nonprofit organization (Employer Identification Number: 84-3245322) located in  Salt Lake City, Utah 84116, United States of America (referred to as **"GeyserTimes"**, **"we"**, **"us"**, or **"our"**).
 
 #### Section A1.03 Agreement to Terms  
 
@@ -41,11 +41,11 @@ GeyserTimes is a collaborative project. A volunteer group operates the infrastru
 
 #### Section A1.07 Database and Contents
 
-The GeyserTimes database available through these Services is licensed under the [Open Database License 1.0](https://opendatacommons.org/licenses/odbl/1.0/). Rights in individual contents of the database are licensed under the [Database Contents License 1.0](https://opendatacommons.org/licenses/dbcl/1.0/). Contributions of data, comments, notes, images, materials, and/or any other content (collectively, **“Contents”**) to GeyserTimes are governed by **[Part C](#part-c-legal-jurisdiction-and-disclaimers)**.
+The GeyserTimes database available through these Services is licensed under the [Open Database License 1.0](https://opendatacommons.org/licenses/odbl/1.0/). Rights in individual contents of the database are licensed under the [Database Contents License 1.0](https://opendatacommons.org/licenses/dbcl/1.0/). Contributions of data, comments, notes, images, materials, and/or any other content (collectively, **"Contents"**) to GeyserTimes are governed by **[Part C](#part-c-legal-jurisdiction-and-disclaimers)**.
 
 #### Section A1.08 Acknowledgement and Citation
 
-In addition and supplemental to the licenses of the database and its contents, you agree to acknowledge and cite GeyserTimes, where applicable, when using the Services. Bibliographic citations should provide individual contributors and copyright owners as authors. When citing specific contributors is either impossible due to lack of information or unreasonable, provide the phrase “GeyserTimes contributors” for citing data contributors to the extent permitted under the licenses and applicable law. Use "GeyserTimes" when referring to the publisher and "GeyserTimes developers" when referring to the Services provider.
+In addition and supplemental to the licenses of the database and its contents, you agree to acknowledge and cite GeyserTimes, where applicable, when using the Services. Bibliographic citations should provide individual contributors and copyright owners as authors. When citing specific contributors is either impossible due to lack of information or unreasonable, provide the phrase "GeyserTimes contributors" for citing data contributors to the extent permitted under the licenses and applicable law. Use "GeyserTimes" when referring to the publisher and "GeyserTimes developers" when referring to the Services provider.
 
 #### Section A1.09 Suspension of Services
 
@@ -183,7 +183,7 @@ GeyserTimes agrees that it may only use or sub-license your Contents as part of 
 
 ### Article B4. Attribution
 
-At your or the copyright owner’s option, GeyserTimes agrees to attribute you or the copyright owner. The common mechanism for such attribution for GeyserTimes is to use the auto-populated “entrant” and/or user-contributed “observer” fields.
+At your or the copyright owner’s option, GeyserTimes agrees to attribute you or the copyright owner. The common mechanism for such attribution for GeyserTimes is to use the auto-populated "entrant" and/or user-contributed "observer" fields.
 
 ### Article B5. Reserved Rights
 
@@ -191,7 +191,7 @@ Except as set forth herein, you reserve all right, title, and interest in, and t
 
 ### Article B6. Limitation of Liability
 
-To the extent permitted by applicable law, you provide the Contents “as is” without warranty of any kind, either express or implied, including without limitation any warranties or conditions of merchantability, fitness for a particular purpose, or otherwise.
+To the extent permitted by applicable law, you provide the Contents "as is" without warranty of any kind, either express or implied, including without limitation any warranties or conditions of merchantability, fitness for a particular purpose, or otherwise.
 
 Subject to any liability that may not be excluded or limited by law, neither you nor GeyserTimes shall be liable for any special, indirect, incidental, consequential, punitive, or exemplary damages under these Terms, however caused and under any theory of liability. This exclusion applies even if either party has been advised of the possibility of such damages.
 
