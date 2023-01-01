@@ -8,8 +8,8 @@ You can edit or delete contributed attachments.
   <TabItem value="web" label="Website">
 
     * Visit [GeyserTimes](https://geysertimes.org) with your browser.
-    * Login to your account.
-    * Open the eruption or note you want to edit the attachment. 
+    * Log in to your account.
+    * Open the eruption or note with the attachment you want to edit. 
     * In the tabs, click **Attachments**.
     * In the card of the attachment, click **Edit**. 
     * Edit the attachment.
@@ -19,8 +19,8 @@ You can edit or delete contributed attachments.
   <TabItem value="android" label="Android">
 
     * Open the GeyserTimes app.
-    * Login to your account.
-    * Open the eruption or note you want to edit the attachment. 
+    * Log in to your account.
+    * Open the eruption or note with the attachment you want to edit. 
     * In the card of the attachment, tap **Edit**. 
     * Edit the attachment.
     * Tap **Submit**.
@@ -29,8 +29,8 @@ You can edit or delete contributed attachments.
   <TabItem value="iOS" label="iOS">
 
     * Open the GeyserTimes app.
-    * Login to your account.
-    * Open the eruption or note you want to edit the attachment. 
+    * Log in to your account.
+    * Open the eruption or note with the attachment you want to edit. 
     * In the card of the attachment, tap **Edit**. 
     * Edit the attachment.
     * Tap **Submit**.
@@ -44,8 +44,8 @@ You can edit or delete contributed attachments.
   <TabItem value="web" label="Website">
 
     * Visit [GeyserTimes](https://geysertimes.org) with your browser.
-    * Login to your account.
-    * Open the eruption or note you want to delete the attachment. 
+    * Log in to your account.
+    * Open the eruption or note with the attachment you want to delete. 
     * In the tabs, click **Attachments**.
     * In the card of the attachment, click **Delete**. 
     * Click **OK** in the dialog to proceed.
@@ -54,8 +54,8 @@ You can edit or delete contributed attachments.
   <TabItem value="android" label="Android">
 
     * Open the GeyserTimes app.
-    * Login to your account.
-    * Open the eruption or note you want to delete the attachment. 
+    * Log in to your account.
+    * Open the eruption or note with the attachment you want to delete. 
     * In the card of the attachment, tap **Delete**. 
     * Tap **Delete** in the dialog to proceed.
 
@@ -63,8 +63,8 @@ You can edit or delete contributed attachments.
   <TabItem value="iOS" label="iOS">
 
     * Open the GeyserTimes app.
-    * Login to your account.
-    * Open the eruption or note you want to delete the attachment. 
+    * Log in to your account.
+    * Open the eruption or note with the attachment you want to delete. 
     * In the card of the attachment, tap **Delete**. 
     * Tap **Delete** in the dialog to proceed.
 

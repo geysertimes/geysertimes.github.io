@@ -9,8 +9,8 @@
 * [View predictions](view-predictions.md)
 * [View webcam and chat](view-webcam.md)
 * [Analyze geyser behavior](analyze.md)
-* [Search for daily geyser activity, geysers, and users](search.md)
-* [Glossary and Abbreviations](glossary.md)
+* [Search for daily geyser activity, geysers and users](search.md)
+* [Glossary and abbreviations](glossary.md)
 
 ## Manage your account
 
@@ -30,10 +30,12 @@
 * [Edit or delete an attachment](edit-attachment.md)
 
 ## Customize your settings
+
 * [Customize the appearance settings](settings-appearance.md)
 * [Customize the sync and database settings of your app](settings-sync.md)
 
 ## Fix a problem
+
 * [Fix problems sycning data with the app](problem-sync.md)
 * [Fix problems logging in to your GeyserTimes account](problem-login.md)
 * [Fix problems with contributing data](problem-contributions.md)

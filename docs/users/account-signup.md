@@ -4,7 +4,7 @@ You can create a free GeyserTimes account to enter your observations.
 
 :::info
 
-For the attribution and credibility of data users must identify themselves using their real name and email address to submit data. All data can be accessed without an account, though.
+For attribution and credibility purposes, users must identify themselves using their real name and email address to submit data. Note that an account is not needed to simply access data.
 
 :::
 

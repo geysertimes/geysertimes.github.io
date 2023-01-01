@@ -4,7 +4,7 @@ You can add attachments to entries, such as YouTube videos or Flickr photos.
 
 :::info
 
-To contribute data, a GeyserTimes account is required. If you don't have a GeyserTimes accout, you can [sign up to GeyserTimes](account-signup.md) for free. 
+To contribute data, a GeyserTimes account is required. If you don't have a GeyserTimes account, you can [sign up to GeyserTimes](account-signup.md) for free. 
 
 :::
 
@@ -12,7 +12,7 @@ To contribute data, a GeyserTimes account is required. If you don't have a Geyse
   <TabItem value="web" label="Website">
 
     * Visit [GeyserTimes](https://geysertimes.org) with your browser.
-    * Login to your account.
+    * Log in to your account.
     * Open the eruption or note you want to add an attachment to. 
     * In the tabs, click **Add Attachment**.
     * Enter the URL to your attachment and your comment into the text fields. 
@@ -22,7 +22,7 @@ To contribute data, a GeyserTimes account is required. If you don't have a Geyse
   <TabItem value="android" label="Android">
 
     * Open the GeyserTimes app.
-    * Login to your account.
+    * Log in to your account.
     * Open the eruption or note you want to add an attachment to. 
     * In the bottom app bar, click the **Attach icon (📎)**.
     * Enter the URL to your attachment and your comment into the text fields. 
@@ -32,7 +32,7 @@ To contribute data, a GeyserTimes account is required. If you don't have a Geyse
   <TabItem value="iOS" label="iOS">
 
     * Open the GeyserTimes app.
-    * Login to your account.
+    * Log in to your account.
     * Open the eruption or note you want to add an attachment to. 
     * In the bottom app bar, click the **Attach icon (📎)**.
     * Enter the URL to your attachment and your comment into the text fields. 

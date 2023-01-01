@@ -8,7 +8,7 @@ You can edit or delete contributed eruptions.
   <TabItem value="web" label="Website">
 
     * Visit [GeyserTimes](https://geysertimes.org) with your browser.
-    * Login to your account.
+    * Log in to your account.
     * Open the eruption you want to edit. 
     * In the button bar, click **Edit**.
     * Edit the eruption. 
@@ -18,7 +18,7 @@ You can edit or delete contributed eruptions.
   <TabItem value="android" label="Android">
 
     * Open the GeyserTimes app.
-    * Login to your account.
+    * Log in to your account.
     * Open the eruption you want to edit. 
     * In the bottom app bar, click the **Edit icon (✏️)**.
     * Edit the eruption. 
@@ -28,7 +28,7 @@ You can edit or delete contributed eruptions.
   <TabItem value="iOS" label="iOS">
 
     * Open the GeyserTimes app.
-    * Login to your account.
+    * Log in to your account.
     * Open the eruption you want to edit. 
     * In the bottom app bar, click the **Edit icon (✏️)**.
     * Edit the eruption. 
@@ -43,7 +43,7 @@ You can edit or delete contributed eruptions.
   <TabItem value="web" label="Website">
 
     * Visit [GeyserTimes](https://geysertimes.org) with your browser.
-    * Login to your account.
+    * Log in to your account.
     * Open the eruption you want to delete. 
     * In the button bar, click **Delete**.
     * Click **OK** in the dialog to proceed.
@@ -52,7 +52,7 @@ You can edit or delete contributed eruptions.
   <TabItem value="android" label="Android">
 
     * Open the GeyserTimes app.
-    * Login to your account.
+    * Log in to your account.
     * Open the eruption you want to delete. 
     * In the bottom app bar, click the **Delete icon (🗑️)**.
     * Tap **Delete** in the dialog to proceed.
@@ -61,7 +61,7 @@ You can edit or delete contributed eruptions.
   <TabItem value="iOS" label="iOS">
 
     * Open the GeyserTimes app.
-    * Login to your account.
+    * Log in to your account.
     * Open the eruption you want to delete. 
     * In the bottom app bar, click the **Delete icon (🗑️)**.
     * Tap **Delete** in the dialog to proceed.

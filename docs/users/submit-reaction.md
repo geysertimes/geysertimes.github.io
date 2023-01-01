@@ -4,7 +4,7 @@ You can comment on other entries to add additional details and confirm or flag e
 
 :::info
 
-To comment, confirm or flag entries, a GeyserTimes account is required. If you don't have a GeyserTimes accout, you can [sign up to GeyserTimes](account-signup.md) for free. 
+To comment, confirm or flag entries, a GeyserTimes account is required. If you don't have a GeyserTimes account, you can [sign up to GeyserTimes](account-signup.md) for free. 
 
 :::
 
@@ -14,7 +14,7 @@ To comment, confirm or flag entries, a GeyserTimes account is required. If you d
   <TabItem value="web" label="Website">
 
     * Visit [GeyserTimes](https://geysertimes.org) with your browser.
-    * Login to your account.
+    * Log in to your account.
     * Open the eruption or note you want to comment on. 
     * In the tabs, click **Add Comment**.
     * Enter your comment into the text field. 
@@ -24,7 +24,7 @@ To comment, confirm or flag entries, a GeyserTimes account is required. If you d
   <TabItem value="android" label="Android">
 
     * Open the GeyserTimes app.
-    * Login to your account.
+    * Log in to your account.
     * Open the eruption or note you want to comment on. 
     * In the bottom app bar, click the **Comment icon (🗨️)**.
     * Enter your comment into the text field. 
@@ -34,7 +34,7 @@ To comment, confirm or flag entries, a GeyserTimes account is required. If you d
   <TabItem value="iOS" label="iOS">
 
     * Open the GeyserTimes app.
-    * Login to your account.
+    * Log in to your account.
     * Open the eruption or note you want to comment on. 
     * In the bottom app bar, click the **Comment icon (🗨️)**.
     * Enter your comment into the text field. 
@@ -49,7 +49,7 @@ To comment, confirm or flag entries, a GeyserTimes account is required. If you d
   <TabItem value="web" label="Website">
 
     * Visit [GeyserTimes](https://geysertimes.org) with your browser.
-    * Login to your account.
+    * Log in to your account.
     * Open the eruption or note you want to confirm. 
     * In the tabs, click **Add Confirm**.
     * Click **Add Confirm** to proceed.
@@ -58,7 +58,7 @@ To comment, confirm or flag entries, a GeyserTimes account is required. If you d
   <TabItem value="android" label="Android">
 
     * Open the GeyserTimes app.
-    * Login to your account.
+    * Log in to your account.
     * Open the eruption or note you want to confirm. 
     * In the bottom app bar, click the **Confirm icon (✔️)**.
     * Tap **Submit** to proceed.
@@ -67,7 +67,7 @@ To comment, confirm or flag entries, a GeyserTimes account is required. If you d
   <TabItem value="iOS" label="iOS">
 
     * Open the GeyserTimes app.
-    * Login to your account.
+    * Log in to your account.
     * Open the eruption or note you want to confirm. 
     * In the bottom app bar, click the **Confirm icon (✔️)**.
     * Tap **Submit** to proceed.
@@ -79,9 +79,9 @@ To comment, confirm or flag entries, a GeyserTimes account is required. If you d
 
 :::caution
 
-Flags are _only_ intended to mark eruptions and notes that are either incorrect or inappropriate. In all other cases comments are considered the proper way of communication between users of GeyserTimes. 
+Flags are _only_ intended to mark eruptions and notes that are either incorrect or inappropriate. In all other cases, comments are considered the proper way of communication between users of GeyserTimes. 
 
-Since entries that have been flagged twice are therefore considered as a risk for the data integrity of the GeyserTimes database they will be automatically deleted. However, correct usage of the provided flagging tool by the user community is crucial for this assumption. 
+Entries that have been flagged twice are considered as a risk for the data integrity of the GeyserTimes database and are automatically deleted. However, correct usage of the provided flagging tool by the user community is crucial for this assumption. 
 
 :::
 
@@ -89,7 +89,7 @@ Since entries that have been flagged twice are therefore considered as a risk fo
   <TabItem value="web" label="Website">
 
     * Visit [GeyserTimes](https://geysertimes.org) with your browser.
-    * Login to your account.
+    * Log in to your account.
     * Open the eruption or note you want to flag. 
     * In the tabs, click **Add Flag**.
     * Enter your comment into the text field. 
@@ -99,7 +99,7 @@ Since entries that have been flagged twice are therefore considered as a risk fo
   <TabItem value="android" label="Android">
 
     * Open the GeyserTimes app.
-    * Login to your account.
+    * Log in to your account.
     * Open the eruption or note you want to flag. 
     * In the bottom app bar, click the **Flag icon (🏴)**.
     * Enter your comment into the text field. 
@@ -109,7 +109,7 @@ Since entries that have been flagged twice are therefore considered as a risk fo
   <TabItem value="iOS" label="iOS">
 
     * Open the GeyserTimes app.
-    * Login to your account.
+    * Log in to your account.
     * Open the eruption or note you want to flag. 
     * In the bottom app bar, click the **Flag icon (🏴)**.
     * Enter your comment into the text field. 

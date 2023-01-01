@@ -1,6 +1,6 @@
 # Get started with GeyserTimes
 
-You can use GeyserTimes to explorer the latest geyser activity and submit your observations. 
+You can use GeyserTimes to explore the latest geyser activity and submit your observations. 
 
 ## Get GeyserTimes
 

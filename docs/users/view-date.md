@@ -9,6 +9,12 @@ You can check out the daily geyser activity in summary or timeline mode.
 
     * Visit [GeyserTimes](https://geysertimes.org) with your browser.
     * Click **View as Logbook**.
+    
+    :::tip
+
+    Hover over eruptions and notes for popups with additional information.
+    
+    :::
 
   </TabItem>
   <TabItem value="android" label="Android">
@@ -27,8 +33,7 @@ You can check out the daily geyser activity in summary or timeline mode.
   <TabItem value="iOS" label="iOS">
 
     * Open the GeyserTimes app.
-    * In the menu of the top app bar, tap the **down arrow 🔻**. 
-    * Tap **Summary**.
+    * In the menu of the top app bar, tap **Summary**.
 
   </TabItem>
 </Tabs>
@@ -39,13 +44,19 @@ Flagged entries are marked with a flag icon and red text color.
 
 :::
 
-## View the daily timeline of geyser acitivy
+## View the daily timeline of geyser activity
 
 <Tabs groupId="os">
   <TabItem value="web" label="Website">
 
     * Visit [GeyserTimes](https://geysertimes.org) with your browser.
     * Click **View as Timeline**.
+
+    :::tip
+
+    Hover over eruptions and notes for popups with additional information.
+    
+    :::
 
   </TabItem>
   <TabItem value="android" label="Android">
@@ -64,8 +75,7 @@ Flagged entries are marked with a flag icon and red text color.
   <TabItem value="iOS" label="iOS">
 
     * Open the GeyserTimes app.
-    * In the menu of the top app bar, tap the **down arrow 🔻**. 
-    * Tap **Timeline**.
+    * In the menu of the top app bar, tap **Timeline**.
 
   </TabItem>
 </Tabs>

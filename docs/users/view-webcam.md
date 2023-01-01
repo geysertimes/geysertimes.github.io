@@ -1,4 +1,4 @@
-# View predictions
+# View the webcam
 
 You can watch the Old Faithful live streaming webcam.
 
@@ -24,15 +24,15 @@ You can watch the Old Faithful live streaming webcam.
 
 ## Cast the webcam to your TV
 
-You cast the Old Faithful live stream to your TV using Google Chromecast.
+You can cast the Old Faithful live stream to your TV using Google Chromecast.
 
 <Tabs groupId="os">
     <TabItem value="web" label="Website">
 
+    This feature is only available with the Google Chrome and Microsoft Edge browsers.
+    
     * Visit the [GeyserTimes Webcam Dashboard](https://chat.geysertimes.org/) with your browser.
     * If using Google Chrome, click the **More icon (⋮)** › **Cast...**. If using Microsoft Edge, click the **Settings and More icon (…)** › **More tools** › **Cast media to device**. 
-
-    **Note:** This feature is only available with the Google Chrome and Microsoft Edge browser.
 
   </TabItem>
   <TabItem value="android" label="Android">
@@ -44,7 +44,11 @@ You cast the Old Faithful live stream to your TV using Google Chromecast.
   </TabItem>
   <TabItem value="iOS" label="iOS">
 
-    This feature is not available on your iPhone or iPad.
+    Chromecast is not available on your iPhone or iPad, but you can use AirPlay instead.
+    
+    * Open the GeyserTimes app.
+    * In the bottom navigation bar, tap **Webcam**.
+    * Tap the **Cast icon** in the upper right-hand corner.
 
   </TabItem>
 </Tabs>

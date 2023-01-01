@@ -8,8 +8,8 @@ You can customize the appearance of the website and app.
   <TabItem value="web" label="Website">
 
     * Visit [GeyserTimes](https://geysertimes.org) with your browser.
-    * Login to your account.
-    * Turn **Night Mode** on to always use the dark theme or off to always use the light theme.
+    * Log in to your account.
+    * In the **Profile & Settings** card, turn **Night Mode** on to always use the dark theme or off to always use the light theme.
 
   </TabItem>
   <TabItem value="android" label="Android">
@@ -23,16 +23,16 @@ You can customize the appearance of the website and app.
 
     | Theme | Description |
     | --- | --- |
-    | **Device default** | Theme which uses the system's theme setting to determine if to use dark or light theme.|
-    | **Battery saver** | Theme which uses dark theme when the system's battery saver is enabled and light theme otherwise.|
-    | **Scheduled** | Theme which switches between dark and light theme depending on the time of day, i.e., dark theme at night and light theme in the day.|
-    | **Light** | Theme which always uses the light theme.|
-    | **Dark** | Theme which always uses the dark theme.|
+    | **Device default** | Uses the system's theme setting to determine whether to use dark or light theme.|
+    | **Battery saver** | Uses dark theme when the system's battery saver is enabled and light theme otherwise.|
+    | **Scheduled** | Switches between dark and light theme depending on the time of day, i.e., dark theme at night and light theme in the day.|
+    | **Light** | Always uses the light theme.|
+    | **Dark** | Always uses the dark theme.|
 
   </TabItem>
   <TabItem value="iOS" label="iOS">
 
-    The app always uses the system's theme setting to determine if to use dark or light theme on iOS.
+    The app always uses the system's theme setting to determine whether to use dark or light theme on iOS.
 
   </TabItem>
 </Tabs>
@@ -42,7 +42,7 @@ You can customize the appearance of the website and app.
 <Tabs groupId="os">
   <TabItem value="web" label="Website">
 
-    The website always uses a data table orientated design for the day summary and timeline. 
+    The website always uses a data table orientated design for the logbook and timeline views. You can toggle between views after the **View as* text in the upper right-hand corner of the page.
 
   </TabItem>
   <TabItem value="android" label="Android">
@@ -59,7 +59,7 @@ You can customize the appearance of the website and app.
   </TabItem>
 </Tabs>
 
-## Customize the color for geyser icons
+## Customize the color of geyser icons
 
 <Tabs groupId="os">
   <TabItem value="web" label="Website">
@@ -106,7 +106,7 @@ You can customize the appearance of the website and app.
   </TabItem>
   <TabItem value="iOS" label="iOS">
 
-    Unless otherwise noted, the app diplays all times in Mountain Time on iOS.  
+    Unless otherwise noted, the app diplays all times in Mountain Time on iOS.
 
   </TabItem>
 </Tabs>
@@ -116,7 +116,11 @@ You can customize the appearance of the website and app.
 <Tabs groupId="os">
   <TabItem value="web" label="Website">
 
-    This feature is not available on the website.. 
+    * Visit [GeyserTimes](https://geysertimes.org) with your browser.
+    * Log in to your account.
+    * In the **Profile & Settings** card, click **Choose Selected Geysers...**
+    * Type the names of up to 15 geysers.
+    * The time elapsed since the last recorded eruption of each selected geyser will display on the GeyserTimes homepage.
 
   </TabItem>
   <TabItem value="android" label="Android">
@@ -128,7 +132,7 @@ You can customize the appearance of the website and app.
 
     :::tip
 
-    You can see the last eruption, the last note entered after the last eruption, and the prediction for your favorite geysers on your personalized for you screen:
+    You can see the last eruption, the last note entered after the last eruption, and the prediction for your favorite geysers on your personalized **For You** screen:
 
     * Open the GeyserTimes app.
     * In the bottom navigation bar, tap **For You**.

@@ -1,8 +1,8 @@
-# Fix problems sycning data with the app
+# Fix problems syncing data with the app
 
-If you have problems syncing data with the app, follow the instructions below. If you continue to experience the problem, please contact our [support](mailto:support@geysertimes.org) for further assitance. 
+If you have problems syncing data with the app, follow the instructions below. If you continue to experience the problem, please contact our [support](mailto:support@geysertimes.org) for further assistance. 
 
-## Fix problems sycning data with the app
+## Fix problems syncing data with the app
 
 <Tabs groupId="os">
   <TabItem value="android" label="Android">
@@ -29,7 +29,7 @@ If you have problems syncing data with the app, follow the instructions below. I
 
     If you continue to experience the problem, clear the cache and storage of the app manually:
 
-    * Go to your system settings of Android.
+    * Go to your Android system settings.
     * Tap the **Apps** or **Apps & notifications** settings.
     * Tap the **GeyserTimes** app.
     * Tap **Storage and cache**.
@@ -37,13 +37,13 @@ If you have problems syncing data with the app, follow the instructions below. I
 
     :::danger
 
-    Please note, all entries and changes not yet synced to the server as well as all your settings of the app will be lost. The app will then behave, as if it was freshly installed. 
+    Please note, all entries and changes not yet synced to the server as well as all your settings for the app will be lost. The app will then behave as if it was freshly installed. 
 
     :::
 
     ### 3. Contact support
 
-    If you continue to experience problems syncing data with the app, please contact our [support](mailto:support@geysertimes.org) for further assitance. Please provide us with as many details as possible and in case an error message is displayed, a screenshot of it. On most devices, screenshots can be made by simultaneously pressing the **Volume Down** and **Power** button of the device. 
+    If you continue to experience problems syncing data with the app, please contact our [support](mailto:support@geysertimes.org) for further assistance. Please provide us with as many details as possible and screenshots of any error messages displayed. On most devices, screenshots can be made by simultaneously pressing the **Volume Down** and **Power** button on the device. 
 
   </TabItem>
   <TabItem value="iOS" label="iOS">
@@ -61,13 +61,13 @@ If you have problems syncing data with the app, follow the instructions below. I
 
     :::danger
 
-    Please note, all entries and changes not yet synced to the server as well as all your settings of the app will be lost. The app will then behave, as if it was freshly installed. 
+    Please note, all entries and changes not yet synced to the server as well as all your settings for the app will be lost. The app will then behave as if it was freshly installed. 
 
     :::
 
     ### 2. Contact support
 
-    If you continue to experience problems syncing data with the app, please contact our [support](mailto:support@geysertimes.org) for further assitance. Please provide us with as many details as possible and in case an error message is displayed, a screenshot of it. On most iPhones, screenshots can be made by simultaneously pressing the **Volume Up** and **Power** button of the device.
+    If you continue to experience problems syncing data with the app, please contact our [support](mailto:support@geysertimes.org) for further assistance. Please provide us with as many details as possible and screenshots of any error messages displayed. On most iPhones, screenshots can be made by simultaneously pressing the **Volume Up** and **Power** button on the device.
 
   </TabItem>
 </Tabs>
