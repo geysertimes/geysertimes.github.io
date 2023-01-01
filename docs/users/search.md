@@ -12,7 +12,7 @@ You can search for entries on a specific date or for a specific geyser, or searc
     
     :::tip
     
-    Search using any of these date formats: **yyyy-mm-dd**, **m/d/yy**, **d [full month name] yyyy**, or **[three letter month abbreviation] d, yyyy*.
+    Search using any of these date formats: **yyyy-mm-dd**, **m/d/yy**, **d [full month name] yyyy**, or **[three letter month abbreviation] d, yyyy**.
     
     :::
 
