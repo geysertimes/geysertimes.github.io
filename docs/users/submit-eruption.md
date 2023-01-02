@@ -22,7 +22,7 @@ To enter an observed eruption, you need the following information:
     * approximate, if you observed the eruption, but did not note the exact time and therefore approximate it, or if you know an eruption has occurred, but do not know its start time (e.g. for overnight eruptions), 
 * (optionally) the duration of the eruption, 
 * as required additional labels, i.e., 
-    * the webcam label, if you observed the eruption on one of the [Old Faithful webcams](https://www.nps.gov/yell/learn/photosmultimedia/webcams.htm)., 
+    * the webcam label, if you observed the eruption on a webcam, 
     * the initial label, if you observed the initial eruption of a series of a geyser known to erupt in series (e.g. Lion),
     * the questionable label, if you think an eruption occurred, but aren't sure, 
     * the major or minor label (or the long or short label for Old Faithful), if you observed such an eruption at a geyser that has such designations (e.g. Castle),

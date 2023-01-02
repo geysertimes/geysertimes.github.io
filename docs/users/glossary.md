@@ -29,7 +29,7 @@ The following words are commonly used to describe eruptive activity. Geyser term
 | **ns** | _Near start._ Eruption was observed within a minute of the start. |
 | **E** | _Electronic._ Eruption was determined using monitoring data, most commonly from a runoff channel temperature logger. |
 | **A** | _Approximate._ Eruption was observed, but the exact time was not noted and the observer later approximated the time. This code is also used when an eruption is inferred from post-eruptive activity. For example, an entry with a time of "0000 A" probably means the geyser erupted overnight. |
-| **wc** | _Webcam._ Eruption was observed on one of the [Old Faithful webcams](https://www.nps.gov/yell/learn/photosmultimedia/webcams.htm). |
+| **wc** | _Webcam._ Eruption was observed via webcam. |
 | **ini** | _Initial._ Eruption was the first eruption in a series. |
 | **(?)** | _Questionable._ Observer thinks that an eruption occurred, but isn't sure. |
 | **maj** | _Major._ Eruption was a major eruption. Will appear as _long_ for Old Faithful Geyser only. |
