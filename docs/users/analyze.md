@@ -32,7 +32,15 @@
   </TabItem>
   <TabItem value="iOS" label="iOS">
 
-    This feature is not available on the app for iOS yet.
+    * Open the GeyserTimes app.
+    * Tap the geyser for which you want to see the interval and duration statistics and charts. 
+    * In the tabs, tap **Statistics**.
+
+    :::tip
+
+    You can customize the minimum and maximum interval for eruptions included in the analysis. 
+
+    :::
 
   </TabItem>
 </Tabs>

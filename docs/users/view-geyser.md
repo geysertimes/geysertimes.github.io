@@ -102,7 +102,10 @@ You can view the latest information on a geyser, including the latest eruptions 
   </TabItem>
   <TabItem value="iOS" label="iOS">
 
-    This feature is not available on the app for iOS yet.
+    * Open the GeyserTimes app.
+    * Tap the geyser you want to see on a map.
+    * In the tabs, tap **Overview**.
+    * Tap the **Pushpin icon (📍)**.
 
   </TabItem>
 </Tabs>
