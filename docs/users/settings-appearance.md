@@ -42,7 +42,7 @@ You can customize the appearance of the website and app.
 <Tabs groupId="os">
   <TabItem value="web" label="Website">
 
-    The website always uses a data table orientated design for the logbook and timeline views. You can toggle between views after the **View as* text in the upper right-hand corner of the page.
+    The website always uses a data table orientated design for the logbook and timeline views.
 
   </TabItem>
   <TabItem value="android" label="Android">
@@ -120,7 +120,12 @@ You can customize the appearance of the website and app.
     * Log in to your account.
     * In the **Profile & Settings** card, click **Choose Selected Geysers...**
     * Type the names of up to 15 geysers.
-    * The time elapsed since the last recorded eruption of each selected geyser will display on the GeyserTimes homepage.
+    
+    :::tip
+    
+    The time elapsed since the last recorded eruption of each selected geyser will display on the [GeyserTimes homepage](https://geysertimes.org) in the **Last Known Eruption** card.
+    
+    :::
 
   </TabItem>
   <TabItem value="android" label="Android">
