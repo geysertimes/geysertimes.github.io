@@ -14,7 +14,7 @@ You can customize your sync and database settings of your app.
   </TabItem>
   <TabItem value="iOS" label="iOS">
 
-    The feature is not availabe on iOS. 
+    This feature is not available on the app for iOS yet. 
 
   </TabItem>
 </Tabs>
@@ -31,7 +31,7 @@ You can customize your sync and database settings of your app.
   </TabItem>
   <TabItem value="iOS" label="iOS">
 
-    The feature is not availabe on iOS. 
+    This feature is not available on the app for iOS yet. 
 
   </TabItem>
 </Tabs>
@@ -57,7 +57,7 @@ You can customize your sync and database settings of your app.
   </TabItem>
   <TabItem value="iOS" label="iOS">
 
-    The feature is not availabe on iOS. 
+    This feature is not available on the app for iOS yet. 
 
   </TabItem>
 </Tabs>
@@ -76,7 +76,7 @@ You can customize your sync and database settings of your app.
   </TabItem>
   <TabItem value="iOS" label="iOS">
 
-    The feature is not availabe on iOS. 
+    This feature is not available on the app for iOS yet. 
 
   </TabItem>
 </Tabs>
@@ -110,7 +110,7 @@ If you clean the database, all local data will be deleted and downloaded again. 
   </TabItem>
   <TabItem value="iOS" label="iOS">
 
-    The feature is not availabe on iOS. 
+    This feature is not available on the app for iOS yet. 
 
   </TabItem>
 </Tabs>

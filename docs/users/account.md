@@ -1,6 +1,6 @@
 # View your profile and manage your account
 
-You can view your profile and contributions and manage your account. This includes the option to permanently delete your account. 
+In your profile, you can view your contributions and manage your account. This includes the option to permanently delete your account. 
 
 ## View your contributions
 
@@ -8,14 +8,14 @@ You can view your profile and contributions and manage your account. This includ
   <TabItem value="web" label="Website">
 
     * Visit [GeyserTimes](https://geysertimes.org) with your browser.
-    * Login to your account.
+    * Log in to your account.
     * In the top toolbar, click **[👤 <Username>](https://geysertimes.org/user/)**.
 
   </TabItem>
   <TabItem value="android" label="Android">
 
     * Open the GeyserTimes app.
-    * Login to your account.
+    * Log in to your account.
     * In the bottom navigation bar, tap **Settings**. 
     * In the **Account** settings, tap **<Username>**.
 
@@ -23,7 +23,7 @@ You can view your profile and contributions and manage your account. This includ
   <TabItem value="iOS" label="iOS">
 
     * Open the GeyserTimes app.
-    * Login to your account.
+    * Log in to your account.
     * In the bottom navigation bar, tap **Settings**. 
     * In the **Account** settings, tap **<Username>**.
 
@@ -36,7 +36,7 @@ You can view your profile and contributions and manage your account. This includ
   <TabItem value="web" label="Website">
 
     * Visit [GeyserTimes](https://geysertimes.org) with your browser.
-    * Login to your account.
+    * Log in to your account.
     * In the top toolbar, click **[👤 <Username>](https://geysertimes.org/user/)**.
     * In the **Tools** card, click **[Manage Profile](https://geysertimes.org/user/manageProfile.php)**.
     * Enter your updated name or your updated email address. 
@@ -46,7 +46,7 @@ You can view your profile and contributions and manage your account. This includ
   <TabItem value="android" label="Android">
 
     * Open the GeyserTimes app.
-    * Login to your account.
+    * Log in to your account.
     * In the bottom navigation bar, tap **Settings**. 
     * In the **Account** settings, tap **Manage Account**.
     * Tap **Forgot password?**.
@@ -57,7 +57,7 @@ You can view your profile and contributions and manage your account. This includ
   <TabItem value="iOS" label="iOS">
 
     * Open the GeyserTimes app.
-    * Login to your account.
+    * Log in to your account.
     * In the bottom navigation bar, tap **Settings**. 
     * In the **Account** settings, tap **Manage Account**.
     * Tap **Forgot password?**.
@@ -73,7 +73,7 @@ You can view your profile and contributions and manage your account. This includ
   <TabItem value="web" label="Website">
 
     * Visit [GeyserTimes](https://geysertimes.org) with your browser.
-    * Login to your account.
+    * Log in to your account.
     * In the top toolbar, click **[👤 <Username>](https://geysertimes.org/user/)**.
     * In the **Tools** card, click **[Manage Profile](https://geysertimes.org/user/manageProfile.php)**.
     * Enter your old and updated password. 
@@ -83,7 +83,7 @@ You can view your profile and contributions and manage your account. This includ
   <TabItem value="android" label="Android">
 
     * Open the GeyserTimes app.
-    * Login to your account.
+    * Log in to your account.
     * In the bottom navigation bar, tap **Settings**. 
     * In the **Account** settings, tap **Manage Account**.
     * Tap **Forgot password?**.
@@ -94,7 +94,7 @@ You can view your profile and contributions and manage your account. This includ
   <TabItem value="iOS" label="iOS">
 
     * Open the GeyserTimes app.
-    * Login to your account.
+    * Log in to your account.
     * In the bottom navigation bar, tap **Settings**. 
     * In the **Account** settings, tap **Manage Account**.
     * Tap **Forgot password?**.
@@ -144,7 +144,7 @@ You can view your profile and contributions and manage your account. This includ
   <TabItem value="web" label="Website">
 
     * Visit [GeyserTimes](https://geysertimes.org) with your browser.
-    * Login to your account.
+    * Log in to your account.
     * In the top toolbar, click **[👤 <Username>](https://geysertimes.org/user/)**.
     * In the **Tools** card, click **[Manage Profile](https://geysertimes.org/user/manageProfile.php)**.
     * Click **Delete Account**.
@@ -153,7 +153,7 @@ You can view your profile and contributions and manage your account. This includ
   <TabItem value="android" label="Android">
 
     * Open the GeyserTimes app.
-    * Login to your account.
+    * Log in to your account.
     * In the bottom navigation bar, tap **Settings**. 
     * In the **Account** settings, tap **Manage Account**.
     * Tap **Delete Account**.
@@ -163,7 +163,7 @@ You can view your profile and contributions and manage your account. This includ
   <TabItem value="iOS" label="iOS">
 
     * Open the GeyserTimes app.
-    * Login to your account.
+    * Log in to your account.
     * In the bottom navigation bar, tap **Settings**. 
     * In the **Account** settings, tap **Manage Account**.
     * Tap **Delete Account**.

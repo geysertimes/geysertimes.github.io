@@ -1,6 +1,6 @@
 # Log in or out of your account
 
-If you have a GeyserTimes account, you can log in or out of your account.
+If you have a GeyserTimes account, you can log in to contribute or interact with geyser observations. You may also log out of your account.
 
 ## Login 
 
@@ -39,7 +39,7 @@ If you have a GeyserTimes account, you can log in or out of your account.
   <TabItem value="web" label="Website">
 
     * Visit [GeyserTimes](https://geysertimes.org) with your browser.
-    * In the top toolbar, click the **Logout icon**.
+    * In the top toolbar, click the **Logout icon** to the right of your username.
 
   </TabItem>
   <TabItem value="android" label="Android">

@@ -4,7 +4,7 @@ You can enter notes to document interesting geyser behavior.
 
 :::info
 
-To contribute data, a GeyserTimes account is required. If you don't have a GeyserTimes accout, you can [sign up to GeyserTimes](account-signup.md) for free. 
+To contribute data, a GeyserTimes account is required. If you don't have a GeyserTimes account, you can [sign up to GeyserTimes](account-signup.md) for free. 
 
 :::
 
@@ -29,7 +29,7 @@ Contributed data will be licensed under the [Open Database License 1.0](https://
   <TabItem value="web" label="Website">
 
     * Visit [GeyserTimes](https://geysertimes.org) with your browser.
-    * Login to your account.
+    * Log in to your account.
     * In the top toolbar, click **[Enter](https://geysertimes.org/enterform.php)**.
     * In the tabs, click **Add Note**.
     * Enter the data into the form. 
@@ -39,7 +39,7 @@ Contributed data will be licensed under the [Open Database License 1.0](https://
   <TabItem value="android" label="Android">
 
     * Open the GeyserTimes app.
-    * Login to your account.
+    * Log in to your account.
     * In the top app bar, tap the **Add icon (➕)**. 
     * In the tabs, tap **Notes**.
     * Enter the data into the form. 
@@ -49,7 +49,7 @@ Contributed data will be licensed under the [Open Database License 1.0](https://
   <TabItem value="iOS" label="iOS">
 
     * Open the GeyserTimes app.
-    * Login to your account.
+    * Log in to your account.
     * In the top app bar, tap the **Add icon (➕)**. 
     * In the tabs, tap **Notes**.
     * Enter the data into the form. 

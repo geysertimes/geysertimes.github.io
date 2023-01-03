@@ -4,7 +4,7 @@ You can view predictions made by the National Park Service and predictions made 
 
 :::info
 
-Geysers are natural features without a schedule. Eruptions cannot be predited with absolute certainty and estimates are derived from user reports.
+Geysers are natural features without a schedule. Eruptions cannot be predicted with absolute certainty and estimates are derived from user reports.
 
 :::
 
