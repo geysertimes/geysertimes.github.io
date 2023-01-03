@@ -4,23 +4,24 @@
 
 The following words are commonly used to describe eruptive activity. Geyser terminology is not always applied consistently to different geysers, but the following definitions will provide you with a starting point.
 
-| Term | Definition |
+| Term | Description |
 | --- | --- |
 | **geyser** | A feature that periodically erupts a mixture of water and vapor. |
 | **perpetual spouter** | A feature that continuously erupts a mixture of water and vapor. |
 | **bubble shower** | Vigorous boiling at the surface of a pool (e.g. activity at Beach Spring and Crested Pool). |
 | **preplay** | Splashes that occur prior to an eruption. |
-| **eruption start** | Somewhat geyser-specific, but a good rule of thumb is that the start marks the "point of no return." |
+| **eruption start** | The beginning of the water phase, usually the first burst of water. _Note:_ Its defintion is geyser-specific (e.g. "one-meter boil" for Great Fountain). |
 | **water phase** | The part of an eruption dominated by water. |
-| **steam phase** | The part of an eruption dominated by vapor. Not all geysers enter a steam phase, but for those that do, the transition to steam phase is considered the end of the eruption. |
+| **steam phase** | The part of an eruption dominated by vapor. |
+| **eruption end** | The end of the water phase and for eruptions with a steam phase, the transition to steam phase. |
 | **duration** | The time between the start of the eruption and the end of water phase. |
 | **interval** | The time between two eruption starts. |
-| **quiet interval** | The time between an eruption start and the _end_ of the previous eruption. |
-| **series** | At some geysers, this refers to a group of eruptions with similar intervals separated by a relatively long interval. The first eruption in a series is called the **initial**, especially if that eruption is different in some way to the eruptions that follow (e.g. Lion and Dome). |
-| **burst** | As a noun, this word refers to a segment of a single eruption that is separated by brief pauses (e.g. Grand). Notable exception: bursts are called **series** at Great Fountain. |
-| **post-eruptive** | The state of a geyser after it has finished an eruption. Experienced observers can assess post-eruptive behavior to determine the rough timing of a missed eruption. |
-| **major** and **minor** | Some geysers have significantly different types of eruptions. **Major eruptions** are set apart by their greater intensity, taller height, and/or longer duration. Conversely, **minor eruptions** are set apart by their lower intensity, shorter height, and/or shorter duration. Note that the designation of major eruptions at a certain geyser does not necessarily imply that the other eruptions are designated minor, and vice versa. |
-| **long** and **short** | The terms for major and minor eruptions of Old Faithful that are still in use for historical reasons. **Short eruptions** last for ≤2.5 minutes and **long eruptions** last for >2.5 minutes. This distinction is important because Old Faithful has a bimodal interval distribution, and the eruption type controls whether the next interval will be shorter (average 68 minutes) or longer (average 94 minutes). |
+| **quiet interval** | The time between an eruption end and the start of the following eruption. |
+| **series** | A group of eruptions with similar intervals separated by a relatively long interval (e.g. Lion and Dome). The first eruption in a series is usually called the _initial_. |
+| **burst** | A segment of a single eruption that is separated by a brief pause (e.g. Grand). _Note:_ Bursts are called _series_ at Great Fountain. |
+| **post-eruptive** | The state of a geyser after it has finished an eruption. Experienced observers may be able to assess post-eruptive behavior to determine an _approximated_ start time of a missed eruption. |
+| **major** and **minor** | Eruption types. _Major_ eruptions are usually defined by their greater intensity, taller height, and/or longer duration (e.g. Castle and Lone Star). _Note:_ The designation of major eruptions at a certain geyser does not necessarily imply that the other eruptions are designated minor, and vice versa. |
+| **long** and **short** | _Major_ and _minor_ eruptions of Old Faithful. _Short_ eruptions last for ≤2.5 minutes and _long_ eruptions last for >2.5 minutes. This distinction is important because Old Faithful has a bimodal interval distribution, and the eruption type controls whether the next interval will be shorter (average 68m) or longer (average 94m). |
 
 ## Time Code
 
@@ -29,14 +30,12 @@ The following words are commonly used to describe eruptive activity. Geyser term
 | **ie** | _In eruption._ Eruption was observed, but not from start. |
 | **ns** | _Near start._ Eruption was observed within a minute of the start. |
 | **E** | _Electronic._ Eruption was determined using monitoring data (e.g. runoff temperature). |
-| **A** | _Approximate._ Time was approximated, either because
-* an eruption was seen but the time was not noted, or
-* an eruption was inferred from post-eruptive activity. |
-| **wc** | _Webcam._ Eruption was observed via webcam. |
-| **ini** | _Initial._ Eruption was the first eruption in a series. Only used for geysers that erupt in series. |
+| **A** | _Approximate._ Eruption was observed, but exact time not noted and therefore later approximated, or inferred from post-eruptive activity. |
+| **wc** | _Webcam._ Eruption was observed on the webcam. |
+| **ini** | _Initial._ Eruption was the first eruption in a series of a geyser known to erupt in series. |
 | **(?)** | _Questionable._ Observer thinks that an eruption occurred, but isn't sure. |
-| **maj** | _Major._ Eruption was a major eruption. Only used for geysers that have different eruption types. Will appear as _long_ for Old Faithful. |
-| **min** | _Minor._ Eruption was a minor eruption. Only used for geysers that have different eruption types. Will appear as _short_ for Old Faithful. |
+| **maj** | _Major._ Eruption was a major eruption of a geyser with different eruption types. |
+| **min** | _Minor._ Eruption was a minor eruption of a geyser with different eruption types. |
 
 ## Duration Code
 
@@ -59,23 +58,21 @@ The following words are commonly used to describe eruptive activity. Geyser term
 | **C** | _Continue._ Vent & Turban continued after the eruption. |
 | **Q** | _Quit._ Vent & Turban quit after the eruption. | 
 
-### Here are some full code examples.
+:::note
+
+The following examples may help to clarify the meaning of the codes:
+
 **T2\*C:** Turban started before Grand, two bursts, second burst was >1m15s, Vent and Turban continued
 **V2/G1Q:** Grand erupted two Turban cycles after a Vent delay, Grand started before Turban, one burst, Vent and Turban quit
 **D5/D2/T1C:** Turban delay, then another Turban delay five cycles later, then Grand erupted after an additional two Turban cycles, Turban started first, one burst, Vent and Turban continued
+
+:::
 
 ## Great Fountain Code
 
 | Code | Description |
 | --- | --- |
 | **p=#** | _Pause._ The quiet pause between the "one-meter boil", the start of the eruption, and the first burst of water. The number after the equal sign is the interval of the pause in minutes. |
-
-## Observer Code
-
-| Code | Description |
-| --- | --- |
-| **OFVCL-EV** | Old Faithful Visitor Center Log - Electronic Version | 
-| **RTED** | Ralph Taylor Electronic Data |
 
 ## Geyser Group Abbreviations for Yellowstone 
 
@@ -136,18 +133,21 @@ The following words are commonly used to describe eruptive activity. Geyser term
 | **WSG** | Westside Group |
 | **WTL** | West Thumb Lower Group |
 
-## Some Other Handy Abbreviations
+## Other Abbreviations
 
-| Abbreviation | Explanation |
+| Abbreviation | Description |
 | --- | --- |
-| **GT** | GeyserTimes |
-| **GOSA** | Geyser Observation and Study Association |
+| **UNNG** | Unnamed Geyser |
 | **UGB** | Upper Geyser Basin |
 | **LGB** | Lower Geyser Basin |
 | **NGB** | Norris Geyser Basin |
+| **GT** | GeyserTimes |
+| **GOSA** | [Geyser Observation and Study Association](https://gosa.org/) |
 | **OFVEC** | Old Faithful Visitor Education Center |
-| **vr** | _Visitor report._ Used in the comments or observer fields when the entrant received word about the geyser activity from a Yellowstone visitor. |
-| **frs** | _Family radio service._ Used in the comments or observer fields when the entrant received word about the geyser activity over a radio and cannot identify the observer. |
+| **OFVCL-EV** | Old Faithful Visitor Center Log - Electronic Version | 
+| **RTED** | Ralph Taylor Electronic Data |
+| **VR** | _Visitor report._ Used in the comments or observer fields when the entrant received word about the geyser activity from a Yellowstone visitor. |
+| **FRS** | _Family radio service._ Used in the comments or observer fields when the entrant received word about the geyser activity over a radio and cannot identify the observer. |
 | **YNM** | The code for the seismometer housed in the Norris Museum. |
 | **YNR** | The code for the seismometer just east of Norris. |
 | **YFT** | The code for the seismometer nearest to Old Faithful. |
