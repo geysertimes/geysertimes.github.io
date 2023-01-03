@@ -31,7 +31,7 @@ The following words are commonly used to describe eruptive activity. Geyser term
 | **E** | _Electronic._ Eruption was determined using monitoring data (e.g. runoff temperature). |
 | **A** | _Approximate._ Time was approximated, either because
 * an eruption was seen but the time was not noted, or
-* an eruption was inferred from post-eruptive activity.  |
+* an eruption was inferred from post-eruptive activity. |
 | **wc** | _Webcam._ Eruption was observed via webcam. |
 | **ini** | _Initial._ Eruption was the first eruption in a series. Only used for geysers that erupt in series. |
 | **(?)** | _Questionable._ Observer thinks that an eruption occurred, but isn't sure. |
