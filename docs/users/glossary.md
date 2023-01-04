@@ -30,8 +30,8 @@ The following words are commonly used to describe eruptive activity. Geyser term
 | **ie** | _In eruption._ Eruption was observed, but not from start. |
 | **ns** | _Near start._ Eruption was observed within a minute of the start. |
 | **E** | _Electronic._ Eruption was determined using monitoring data (e.g. runoff temperature). |
-| **A** | _Approximate._ Eruption was observed, but exact time not noted and therefore later approximated, or inferred from post-eruptive activity. |
-| **wc** | _Webcam._ Eruption was observed on the webcam. |
+| **A** | _Approximate._ Eruption was observed, but exact time not noted and therefore later approximated, or eruption not observed and inferred from post-eruptive activity. |
+| **wc** | _Webcam._ Eruption was observed via webcam. |
 | **ini** | _Initial._ Eruption was the first eruption in a series of a geyser known to erupt in series. |
 | **(?)** | _Questionable._ Observer thinks that an eruption occurred, but isn't sure. |
 | **maj** | _Major._ Eruption was a major eruption of a geyser with different eruption types. |
