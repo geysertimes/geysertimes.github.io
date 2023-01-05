@@ -31,8 +31,8 @@ module.exports = {
         "users/submit-attachment",
         "users/edit-eruption",
         "users/edit-note",
-        "edit-reaction",
-        "edit-attachment"]
+        "users/edit-reaction",
+        "users/edit-attachment"]
     },
     {
       "Settings": [
