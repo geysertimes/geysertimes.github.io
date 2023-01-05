@@ -1,6 +1,5 @@
 ---
-title: "Documentation"
-sidebar_label: "Overview"
+title: "Overview"
 ---
 
 # Developer Documentation
