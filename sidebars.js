@@ -4,6 +4,7 @@
 
 module.exports = {
   "users": [
+    "users/intro",
     {
       "View Data": [
         "users/get-started",
@@ -49,6 +50,7 @@ module.exports = {
     "researchers/intro",
   ],
   "devs": [
+    "devs/intro",
     "devs/rest"
   ]
 };
