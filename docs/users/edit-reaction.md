@@ -1,3 +1,6 @@
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 # Edit or delete a comment, confirm or flag
 
 You can edit or delete your comments, confirms and flags. 
@@ -5,70 +8,70 @@ You can edit or delete your comments, confirms and flags.
 ## Edit a comment
 
 <Tabs groupId="os">
-  <TabItem value="web" label="Website">
+<TabItem value="web" label="Website">
 
-    * Visit [GeyserTimes](https://geysertimes.org) with your browser.
-    * Log in to your account.
-    * Open the eruption or note on which you commented. 
-    * In the tabs, click **Comments**.
-    * In the card of the comment, click **Edit**. 
-    * Edit the comment.
-    * Click the **Check icon (✔️)**.
+* Visit [GeyserTimes](https://geysertimes.org) with your browser.
+* Log in to your account.
+* Open the eruption or note on which you commented. 
+* In the tabs, click **Comments**.
+* In the card of the comment, click **Edit**. 
+* Edit the comment.
+* Click the **Check icon (✔️)**.
 
-  </TabItem>
-  <TabItem value="android" label="Android">
+</TabItem>
+<TabItem value="android" label="Android">
 
-    * Open the GeyserTimes app.
-    * Log in to your account.
-    * Open the eruption or note on which you commented. 
-    * In the card of the comment, tap **Edit**. 
-    * Edit the comment.
-    * Tap **Submit**.
+* Open the GeyserTimes app.
+* Log in to your account.
+* Open the eruption or note on which you commented. 
+* In the card of the comment, tap **Edit**. 
+* Edit the comment.
+* Tap **Submit**.
 
-  </TabItem>
-  <TabItem value="iOS" label="iOS">
+</TabItem>
+<TabItem value="iOS" label="iOS">
 
-    * Open the GeyserTimes app.
-    * Log in to your account.
-    * Open the eruption or note on which you commented. 
-    * In the card of the comment, tap **Edit**. 
-    * Edit the comment.
-    * Tap **Submit**.
+* Open the GeyserTimes app.
+* Log in to your account.
+* Open the eruption or note on which you commented. 
+* In the card of the comment, tap **Edit**. 
+* Edit the comment.
+* Tap **Submit**.
 
-  </TabItem>
+</TabItem>
 </Tabs>
 
 ## Delete a comment
 
 <Tabs groupId="os">
-  <TabItem value="web" label="Website">
+<TabItem value="web" label="Website">
 
-    * Visit [GeyserTimes](https://geysertimes.org) with your browser.
-    * Log in to your account.
-    * Open the eruption or note on which you commented. 
-    * In the tabs, click **Comments**.
-    * In the card of the comment, click **Delete**. 
-    * Click **OK** in the dialog to proceed.
+* Visit [GeyserTimes](https://geysertimes.org) with your browser.
+* Log in to your account.
+* Open the eruption or note on which you commented. 
+* In the tabs, click **Comments**.
+* In the card of the comment, click **Delete**. 
+* Click **OK** in the dialog to proceed.
 
-  </TabItem>
-  <TabItem value="android" label="Android">
+</TabItem>
+<TabItem value="android" label="Android">
 
-    * Open the GeyserTimes app.
-    * Log in to your account.
-    * Open the eruption or note on which you commented. 
-    * In the card of the comment, tap **Delete**. 
-    * Tap **Delete** in the dialog to proceed.
+* Open the GeyserTimes app.
+* Log in to your account.
+* Open the eruption or note on which you commented. 
+* In the card of the comment, tap **Delete**. 
+* Tap **Delete** in the dialog to proceed.
 
-  </TabItem>
-  <TabItem value="iOS" label="iOS">
+</TabItem>
+<TabItem value="iOS" label="iOS">
 
-    * Open the GeyserTimes app.
-    * Log in to your account.
-    * Open the eruption or note on which you commented. 
-    * In the card of the comment, tap **Delete**. 
-    * Tap **Delete** in the dialog to proceed.
+* Open the GeyserTimes app.
+* Log in to your account.
+* Open the eruption or note on which you commented. 
+* In the card of the comment, tap **Delete**. 
+* Tap **Delete** in the dialog to proceed.
 
-  </TabItem>
+</TabItem>
 </Tabs>
 
 ## Delete a confirm

@@ -1,3 +1,6 @@
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 # Comment, confirm or flag entries
 
 You can comment on other entries to add additional details and confirm or flag entries.
@@ -11,68 +14,68 @@ To comment, confirm or flag entries, a GeyserTimes account is required. If you d
 ## Comment on an entry
 
 <Tabs groupId="os">
-  <TabItem value="web" label="Website">
+<TabItem value="web" label="Website">
 
-    * Visit [GeyserTimes](https://geysertimes.org) with your browser.
-    * Log in to your account.
-    * Open the eruption or note you want to comment on. 
-    * In the tabs, click **Add Comment**.
-    * Enter your comment into the text field. 
-    * Click **Add Comment**.
+* Visit [GeyserTimes](https://geysertimes.org) with your browser.
+* Log in to your account.
+* Open the eruption or note you want to comment on. 
+* In the tabs, click **Add Comment**.
+* Enter your comment into the text field. 
+* Click **Add Comment**.
 
-  </TabItem>
-  <TabItem value="android" label="Android">
+</TabItem>
+<TabItem value="android" label="Android">
 
-    * Open the GeyserTimes app.
-    * Log in to your account.
-    * Open the eruption or note you want to comment on. 
-    * In the bottom app bar, click the **Comment icon (🗨️)**.
-    * Enter your comment into the text field. 
-    * Tap **Submit**.
+* Open the GeyserTimes app.
+* Log in to your account.
+* Open the eruption or note you want to comment on. 
+* In the bottom app bar, click the **Comment icon (🗨️)**.
+* Enter your comment into the text field. 
+* Tap **Submit**.
 
-  </TabItem>
-  <TabItem value="iOS" label="iOS">
+</TabItem>
+<TabItem value="iOS" label="iOS">
 
-    * Open the GeyserTimes app.
-    * Log in to your account.
-    * Open the eruption or note you want to comment on. 
-    * In the bottom app bar, click the **Comment icon (🗨️)**.
-    * Enter your comment into the text field. 
-    * Tap **Submit**.
+* Open the GeyserTimes app.
+* Log in to your account.
+* Open the eruption or note you want to comment on. 
+* In the bottom app bar, click the **Comment icon (🗨️)**.
+* Enter your comment into the text field. 
+* Tap **Submit**.
 
-  </TabItem>
+</TabItem>
 </Tabs>
 
 ## Confirm an entry
 
 <Tabs groupId="os">
-  <TabItem value="web" label="Website">
+<TabItem value="web" label="Website">
 
-    * Visit [GeyserTimes](https://geysertimes.org) with your browser.
-    * Log in to your account.
-    * Open the eruption or note you want to confirm. 
-    * In the tabs, click **Add Confirm**.
-    * Click **Add Confirm** to proceed.
+* Visit [GeyserTimes](https://geysertimes.org) with your browser.
+* Log in to your account.
+* Open the eruption or note you want to confirm. 
+* In the tabs, click **Add Confirm**.
+* Click **Add Confirm** to proceed.
 
-  </TabItem>
-  <TabItem value="android" label="Android">
+</TabItem>
+<TabItem value="android" label="Android">
 
-    * Open the GeyserTimes app.
-    * Log in to your account.
-    * Open the eruption or note you want to confirm. 
-    * In the bottom app bar, click the **Confirm icon (✔️)**.
-    * Tap **Submit** to proceed.
+* Open the GeyserTimes app.
+* Log in to your account.
+* Open the eruption or note you want to confirm. 
+* In the bottom app bar, click the **Confirm icon (✔️)**.
+* Tap **Submit** to proceed.
 
-  </TabItem>
-  <TabItem value="iOS" label="iOS">
+</TabItem>
+<TabItem value="iOS" label="iOS">
 
-    * Open the GeyserTimes app.
-    * Log in to your account.
-    * Open the eruption or note you want to confirm. 
-    * In the bottom app bar, click the **Confirm icon (✔️)**.
-    * Tap **Submit** to proceed.
+* Open the GeyserTimes app.
+* Log in to your account.
+* Open the eruption or note you want to confirm. 
+* In the bottom app bar, click the **Confirm icon (✔️)**.
+* Tap **Submit** to proceed.
 
-  </TabItem>
+</TabItem>
 </Tabs>
 
 ## Flag an entry
@@ -86,34 +89,34 @@ Entries that have been flagged twice are considered as a risk for the data integ
 :::
 
 <Tabs groupId="os">
-  <TabItem value="web" label="Website">
+<TabItem value="web" label="Website">
 
-    * Visit [GeyserTimes](https://geysertimes.org) with your browser.
-    * Log in to your account.
-    * Open the eruption or note you want to flag. 
-    * In the tabs, click **Add Flag**.
-    * Enter your comment into the text field. 
-    * Click **Add Flag**.
+* Visit [GeyserTimes](https://geysertimes.org) with your browser.
+* Log in to your account.
+* Open the eruption or note you want to flag. 
+* In the tabs, click **Add Flag**.
+* Enter your comment into the text field. 
+* Click **Add Flag**.
 
-  </TabItem>
-  <TabItem value="android" label="Android">
+</TabItem>
+<TabItem value="android" label="Android">
 
-    * Open the GeyserTimes app.
-    * Log in to your account.
-    * Open the eruption or note you want to flag. 
-    * In the bottom app bar, click the **Flag icon (🏴)**.
-    * Enter your comment into the text field. 
-    * Tap **Submit**.
+* Open the GeyserTimes app.
+* Log in to your account.
+* Open the eruption or note you want to flag. 
+* In the bottom app bar, click the **Flag icon (🏴)**.
+* Enter your comment into the text field. 
+* Tap **Submit**.
 
-  </TabItem>
-  <TabItem value="iOS" label="iOS">
+</TabItem>
+<TabItem value="iOS" label="iOS">
 
-    * Open the GeyserTimes app.
-    * Log in to your account.
-    * Open the eruption or note you want to flag. 
-    * In the bottom app bar, click the **Flag icon (🏴)**.
-    * Enter your comment into the text field. 
-    * Tap **Submit**.
+* Open the GeyserTimes app.
+* Log in to your account.
+* Open the eruption or note you want to flag. 
+* In the bottom app bar, click the **Flag icon (🏴)**.
+* Enter your comment into the text field. 
+* Tap **Submit**.
 
-  </TabItem>
+</TabItem>
 </Tabs>

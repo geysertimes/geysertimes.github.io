@@ -1,3 +1,6 @@
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 # Submit a note
 
 You can enter notes to document interesting geyser behavior.
@@ -26,34 +29,34 @@ Contributed data will be licensed under the [Open Database License 1.0](https://
 ## Submit a note
 
 <Tabs groupId="os">
-  <TabItem value="web" label="Website">
+<TabItem value="web" label="Website">
 
-    * Visit [GeyserTimes](https://geysertimes.org) with your browser.
-    * Log in to your account.
-    * In the top toolbar, click **[Enter](https://geysertimes.org/enterform.php)**.
-    * In the tabs, click **Add Note**.
-    * Enter the data into the form. 
-    * Click **Submit**.
+* Visit [GeyserTimes](https://geysertimes.org) with your browser.
+* Log in to your account.
+* In the top toolbar, click **[Enter](https://geysertimes.org/enterform.php)**.
+* In the tabs, click **Add Note**.
+* Enter the data into the form. 
+* Click **Submit**.
 
-  </TabItem>
-  <TabItem value="android" label="Android">
+</TabItem>
+<TabItem value="android" label="Android">
 
-    * Open the GeyserTimes app.
-    * Log in to your account.
-    * In the top app bar, tap the **Add icon (➕)**. 
-    * In the tabs, tap **Notes**.
-    * Enter the data into the form. 
-    * Tap **Submit**.
+* Open the GeyserTimes app.
+* Log in to your account.
+* In the top app bar, tap the **Add icon (➕)**. 
+* In the tabs, tap **Notes**.
+* Enter the data into the form. 
+* Tap **Submit**.
 
-  </TabItem>
-  <TabItem value="iOS" label="iOS">
+</TabItem>
+<TabItem value="iOS" label="iOS">
 
-    * Open the GeyserTimes app.
-    * Log in to your account.
-    * In the top app bar, tap the **Add icon (➕)**. 
-    * In the tabs, tap **Notes**.
-    * Enter the data into the form. 
-    * Tap **Submit**.
+* Open the GeyserTimes app.
+* Log in to your account.
+* In the top app bar, tap the **Add icon (➕)**. 
+* In the tabs, tap **Notes**.
+* Enter the data into the form. 
+* Tap **Submit**.
 
-  </TabItem>
+</TabItem>
 </Tabs>

@@ -1,3 +1,6 @@
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 # View the daily geyser activity
 
 You can check out the daily geyser activity in summary or timeline mode. 
@@ -5,37 +8,37 @@ You can check out the daily geyser activity in summary or timeline mode.
 ## View the daily summary of geyser activity
 
 <Tabs groupId="os">
-  <TabItem value="web" label="Website">
+<TabItem value="web" label="Website">
 
-    * Visit [GeyserTimes](https://geysertimes.org) with your browser.
-    * Click **View as Logbook**.
-    
-    :::tip
+* Visit [GeyserTimes](https://geysertimes.org) with your browser.
+* Click **View as Logbook**.
 
-    Hover over eruptions and notes for popups with additional information.
-    
-    :::
+:::tip
 
-  </TabItem>
-  <TabItem value="android" label="Android">
+Hover over eruptions and notes for popups with additional information.
 
-    * Open the GeyserTimes app.
-    * In the menu of the top app bar, tap the **down arrow 🔻**. 
-    * Tap **Summary**.
+:::
 
-    :::tip
+</TabItem>
+<TabItem value="android" label="Android">
 
-    Hover over or long click on eruptions and notes for popups with additional information.
-    
-    :::
+* Open the GeyserTimes app.
+* In the menu of the top app bar, tap the **down arrow 🔻**. 
+* Tap **Summary**.
 
-  </TabItem>
-  <TabItem value="iOS" label="iOS">
+:::tip
 
-    * Open the GeyserTimes app.
-    * In the menu of the top app bar, tap **Summary**.
+Hover over or long click on eruptions and notes for popups with additional information.
 
-  </TabItem>
+:::
+
+</TabItem>
+<TabItem value="iOS" label="iOS">
+
+* Open the GeyserTimes app.
+* In the menu of the top app bar, tap **Summary**.
+
+</TabItem>
 </Tabs>
 
 :::note
@@ -47,72 +50,72 @@ Flagged entries are marked with a flag icon and red text color.
 ## View the daily timeline of geyser activity
 
 <Tabs groupId="os">
-  <TabItem value="web" label="Website">
+<TabItem value="web" label="Website">
 
-    * Visit [GeyserTimes](https://geysertimes.org) with your browser.
-    * Click **View as Timeline**.
+* Visit [GeyserTimes](https://geysertimes.org) with your browser.
+* Click **View as Timeline**.
 
-    :::tip
+:::tip
 
-    Hover over eruptions and notes for popups with additional information.
-    
-    :::
+Hover over eruptions and notes for popups with additional information.
 
-  </TabItem>
-  <TabItem value="android" label="Android">
+:::
 
-    * Open the GeyserTimes app.
-    * In the menu of the top app bar, tap the **down arrow 🔻**. 
-    * Tap **Timeline**.
+</TabItem>
+<TabItem value="android" label="Android">
 
-    :::tip
+* Open the GeyserTimes app.
+* In the menu of the top app bar, tap the **down arrow 🔻**. 
+* Tap **Timeline**.
 
-    Hover over or long click on eruptions and notes for popups with additional information.
-    
-    :::
+:::tip
 
-  </TabItem>
-  <TabItem value="iOS" label="iOS">
+Hover over or long click on eruptions and notes for popups with additional information.
 
-    * Open the GeyserTimes app.
-    * In the menu of the top app bar, tap **Timeline**.
+:::
 
-  </TabItem>
+</TabItem>
+<TabItem value="iOS" label="iOS">
+
+* Open the GeyserTimes app.
+* In the menu of the top app bar, tap **Timeline**.
+
+</TabItem>
 </Tabs>
 
 ## View the daily summary of specific dates
 
 <Tabs groupId="os">
-  <TabItem value="web" label="Website">
+<TabItem value="web" label="Website">
 
-    * Visit [GeyserTimes](https://geysertimes.org) with your browser.
-    * Click **<<<** and **>>>** to go to other days.
+* Visit [GeyserTimes](https://geysertimes.org) with your browser.
+* Click **<<<** and **>>>** to go to other days.
 
-  </TabItem>
-  <TabItem value="android" label="Android">
+</TabItem>
+<TabItem value="android" label="Android">
 
-    * Open the GeyserTimes app.
-    * Swipe left or right to go to other days.
+* Open the GeyserTimes app.
+* Swipe left or right to go to other days.
 
-    :::tip
+:::tip
 
-    * In the tabs displaying the dates, swipe left or right to the specific date.
-    * Tap the specific date.
+* In the tabs displaying the dates, swipe left or right to the specific date.
+* Tap the specific date.
 
-    :::
+:::
 
-  </TabItem>
-  <TabItem value="iOS" label="iOS">
+</TabItem>
+<TabItem value="iOS" label="iOS">
 
-    * Open the GeyserTimes app.
-    * Swipe left or right to go to other days.
+* Open the GeyserTimes app.
+* Swipe left or right to go to other days.
 
-    :::tip
+:::tip
 
-    * In the tabs displaying the dates, swipe left or right to the specific date.
-    * Tap the specific date.
+* In the tabs displaying the dates, swipe left or right to the specific date.
+* Tap the specific date.
 
-    :::
-    
-  </TabItem>
+:::
+
+</TabItem>
 </Tabs>

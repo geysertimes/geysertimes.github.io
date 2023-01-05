@@ -1,48 +1,51 @@
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 # Analyze geyser behavior
 
 ## Analyze geyser behavior using interval and duration statistics and charts
 <Tabs groupId="os">
-  <TabItem value="web" label="Website">
+<TabItem value="web" label="Website">
 
-    * Visit [GeyserTimes](https://geysertimes.org) with your browser.
-    * In the top toolbar, click **[Analysis](https://geysertimes.org/analysis.php)**.
-    * Click the **down arrow 🔻** and select the geyser for which you want to see the interval statistics.
-    * Click the text fields **From** and **To** and select the time range of eruptions to be included in the analysis.
-    * Click **Go**.
+* Visit [GeyserTimes](https://geysertimes.org) with your browser.
+* In the top toolbar, click **[Analysis](https://geysertimes.org/analysis.php)**.
+* Click the **down arrow 🔻** and select the geyser for which you want to see the interval statistics.
+* Click the text fields **From** and **To** and select the time range of eruptions to be included in the analysis.
+* Click **Go**.
 
-    :::tip
+:::tip
 
-    You can force a maximum interval for your analysis. 
+You can force a maximum interval for your analysis. 
 
-    :::
+:::
 
-  </TabItem>
-  <TabItem value="android" label="Android">
+</TabItem>
+<TabItem value="android" label="Android">
 
-    * Open the GeyserTimes app.
-    * Tap the geyser for which you want to see the interval and duration statistics and charts. 
-    * In the tabs, tap **Statistics**.
+* Open the GeyserTimes app.
+* Tap the geyser for which you want to see the interval and duration statistics and charts. 
+* In the tabs, tap **Statistics**.
 
-    :::tip
+:::tip
 
-    You can customize the minimum and maximum interval for eruptions included in the analysis. 
+You can customize the minimum and maximum interval for eruptions included in the analysis. 
 
-    :::
+:::
 
-  </TabItem>
-  <TabItem value="iOS" label="iOS">
+</TabItem>
+<TabItem value="iOS" label="iOS">
 
-    * Open the GeyserTimes app.
-    * Tap the geyser for which you want to see the interval and duration statistics and charts. 
-    * In the tabs, tap **Statistics**.
+* Open the GeyserTimes app.
+* Tap the geyser for which you want to see the interval and duration statistics and charts. 
+* In the tabs, tap **Statistics**.
 
-    :::tip
+:::tip
 
-    You can customize the minimum and maximum interval for eruptions included in the analysis. 
+You can customize the minimum and maximum interval for eruptions included in the analysis. 
 
-    :::
+:::
 
-  </TabItem>
+</TabItem>
 </Tabs>
 
 ## Retrieve database content for statistical analysis
