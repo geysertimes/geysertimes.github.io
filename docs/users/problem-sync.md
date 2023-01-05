@@ -1,6 +1,10 @@
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
+---
+title: "Sync Problems"
+---
+
 # Fix problems syncing data with the app
 
 If you have problems syncing data with the app, follow the instructions below. If you continue to experience the problem, please contact our [support](mailto:support@geysertimes.org) for further assistance. 

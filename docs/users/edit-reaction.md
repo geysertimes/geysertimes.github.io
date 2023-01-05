@@ -1,6 +1,10 @@
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
+---
+title: "Edit Reaction"
+---
+
 # Edit or delete a comment, confirm or flag
 
 You can edit or delete your comments, confirms and flags. 

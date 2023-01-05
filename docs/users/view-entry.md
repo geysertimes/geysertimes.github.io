@@ -1,6 +1,10 @@
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
+---
+title: "Entry"
+---
+
 # View details of eruptions and notes
 
 You can view details of submitted eruptions and notes, including comments, confirms, flags and attachments.

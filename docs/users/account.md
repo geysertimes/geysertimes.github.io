@@ -1,6 +1,10 @@
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
+---
+title: "Manage Account"
+---
+
 # View your profile and manage your account
 
 In your profile, you can view your contributions and manage your account. This includes the option to permanently delete your account. 

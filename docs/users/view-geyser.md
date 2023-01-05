@@ -1,6 +1,10 @@
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
+---
+title: "Geyser"
+---
+
 # View the latest information on a geyser
 
 You can view the latest information on a geyser, including the latest eruptions and notes and, for select geysers, a prediction for its next eruption.

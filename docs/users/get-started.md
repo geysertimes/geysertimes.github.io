@@ -1,6 +1,10 @@
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
+---
+title: "Get Started"
+---
+
 # Get started with GeyserTimes
 
 You can use GeyserTimes to explore the latest geyser activity and submit your observations. 

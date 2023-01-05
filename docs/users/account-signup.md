@@ -1,6 +1,10 @@
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
+---
+title: "Sign Up"
+---
+
 # Sign up to GeyserTimes
 
 You can create a free GeyserTimes account to enter your observations.

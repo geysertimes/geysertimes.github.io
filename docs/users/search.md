@@ -1,6 +1,10 @@
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
+---
+title: "Search"
+---
+
 # Search for daily geyser activity, geysers, and users
 
 You can search for entries on a specific date or for a specific geyser, or search for a specific user.

@@ -1,3 +1,7 @@
+---
+title: "Glossary"
+---
+
 # Glossary and Abbreviations
 
 ## Geyser Terminology

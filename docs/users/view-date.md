@@ -1,6 +1,10 @@
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
+---
+title: "Daily Geyser Activity"
+---
+
 # View the daily geyser activity
 
 You can check out the daily geyser activity in summary or timeline mode. 

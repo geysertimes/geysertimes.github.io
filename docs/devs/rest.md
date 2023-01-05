@@ -1,3 +1,7 @@
+---
+title: "REST API"
+---
+
 # REST API V5 Documentation
 
 The GeyserTimes.org API gives your application access to the most comprehensive geyser eruption database on the internet. The API generally follows RESTful principles. Responses are returned in JSON format. 

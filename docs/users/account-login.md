@@ -1,6 +1,10 @@
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
+---
+title: "Login & Logout"
+---
+
 # Log in or out of your account
 
 If you have a GeyserTimes account, you can log in to contribute or interact with geyser observations. You may also log out of your account.

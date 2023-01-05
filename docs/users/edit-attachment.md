@@ -1,6 +1,10 @@
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
+---
+title: "Edit Attachment"
+---
+
 # Edit or delete an attachment
 
 You can edit or delete contributed attachments.

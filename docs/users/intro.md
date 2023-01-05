@@ -1,3 +1,7 @@
+---
+title: "Overview"
+---
+
 # GeyserTimes Help Center
 
 ## View data
@@ -8,7 +12,7 @@
 * [View the latest information on a geyser](view-geyser.md)
 * [View predictions](view-predictions.md)
 * [View webcam and chat](view-webcam.md)
-* [Analyze geyser behavior](analyze.md)
+* [Analyze geyser behavior with charts and statistics](analyze.md)
 * [Search for daily geyser activity, geysers and users](search.md)
 * [Glossary and abbreviations](glossary.md)
 

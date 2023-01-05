@@ -1,6 +1,10 @@
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
+---
+title: "Submit Attachment"
+---
+
 # Add attachments to entries
 
 You can add attachments to entries, such as YouTube videos or Flickr photos.

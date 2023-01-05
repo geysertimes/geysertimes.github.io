@@ -1,6 +1,10 @@
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
+---
+title: "Predictions"
+---
+
 # View predictions
 
 You can view predictions made by the National Park Service and predictions made by GeyserTimes, which are available for additional geysers.

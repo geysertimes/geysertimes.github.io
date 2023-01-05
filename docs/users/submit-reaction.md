@@ -1,6 +1,10 @@
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
+---
+title: "Submit Reaction"
+---
+
 # Comment, confirm or flag entries
 
 You can comment on other entries to add additional details and confirm or flag entries.

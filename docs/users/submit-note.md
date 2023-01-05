@@ -1,6 +1,10 @@
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
+---
+title: "Submit Note"
+---
+
 # Submit a note
 
 You can enter notes to document interesting geyser behavior.

@@ -1,6 +1,10 @@
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
+---
+title: "Edit Eruption"
+---
+
 # Edit or delete an eruption
 
 You can edit or delete contributed eruptions.

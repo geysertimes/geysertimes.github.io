@@ -1,7 +1,11 @@
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-# Analyze geyser behavior
+---
+title: "Charts & Statistics"
+---
+
+# Analyze geyser behavior with charts and statistics
 
 ## Analyze geyser behavior using interval and duration statistics and charts
 <Tabs groupId="os">

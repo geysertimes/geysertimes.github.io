@@ -1,6 +1,10 @@
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
+---
+title: "Sync Settings"
+---
+
 # Customize the sync and database settings of your app
 
 You can customize your sync and database settings of your app. 

@@ -1,6 +1,10 @@
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
+---
+title: "Appearance Settings"
+---
+
 # Customize the appearance settings
 
 You can customize the appearance of the website and app. 

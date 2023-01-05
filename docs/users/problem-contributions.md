@@ -1,3 +1,7 @@
+---
+title: "Contribution Problems"
+---
+
 # Fix problems with contributing data
 
 If you have problems contributing data, follow the instructions below. For problems not listed here, please contact our [support](mailto:support@geysertimes.org) for further assistance. 

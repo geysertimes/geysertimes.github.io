@@ -1,6 +1,10 @@
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
+---
+title: "Edit Note"
+---
+
 # Edit or delete a note
 
 You can edit or delete contributed notes.

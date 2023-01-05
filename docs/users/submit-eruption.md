@@ -1,6 +1,10 @@
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
+---
+title: "Submit Eruption"
+---
+
 # Submit an eruption
 
 You can enter eruption times for geysers.

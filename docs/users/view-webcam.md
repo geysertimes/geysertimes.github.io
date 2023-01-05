@@ -1,6 +1,10 @@
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
+---
+title: "Webcam"
+---
+
 # View the webcam
 
 You can watch the Old Faithful live streaming webcam.
