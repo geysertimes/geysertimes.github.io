@@ -7,8 +7,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'GeyserTimes Documentation',
   tagline: 'GeyserTimes documentation for users, researchers and developers alike.',
-  url: 'https://geysertimes.github.io',
-  baseUrl: '/docs/',
+  url: process.env.URL || 'https://docs.geysertimes.org',
+  baseUrl: process.env.BASE_URL || '/',
   trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
