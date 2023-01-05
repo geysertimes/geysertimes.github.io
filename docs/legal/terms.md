@@ -33,7 +33,7 @@ If you are entering into this agreement on behalf of your company or another leg
 
 #### Section A1.05 GeyserTimes as Host
 
-GeyserTimes is a collaborative project. A volunteer group operates the infrastructure and websites, but content, including observation data, comments, and forums, are contributed by users. While it is a goal of the GeyserTimes project to facilitate an accurate open database of geyser activity throughout the world, GeyserTimes does not and cannot proactively review all contributions and other edits. Therefore, we do not represent or guarantee the truthfulness, accuracy, or reliability of any submitted community content. Suspected data problems may be reported to the Board of Directors.
+GeyserTimes is a collaborative project. A volunteer group operates the infrastructure and websites, but content, including observation data, comments, and forums, are contributed by users. While it is a goal of the GeyserTimes project to facilitate an accurate open database of geyser activity throughout the world, GeyserTimes does not and cannot proactively review all contributions and other edits. Therefore, we do not represent or guarantee the truthfulness, accuracy, or reliability of any submitted community content. Suspected data problems may be reported to the [Board of Directors](mailto:boardsecretary@geysertimes.org).
 
 #### Section A1.06 Responsibility of Actions 
 
@@ -201,7 +201,7 @@ Subject to any liability that may not be excluded or limited by law, neither you
 
 _Highlighted for emphasis_
 
-**We hope that no serious disagreements arise involving you, but, in the event there is a dispute, we encourage you to seek resolution through the dispute resolution procedures or mechanisms provided by the Services, such as by contacting the GeyserTimes Board of Directors.**
+**We hope that no serious disagreements arise involving you, but, in the event there is a dispute, we encourage you to seek resolution through the dispute resolution procedures or mechanisms provided by the Services, such as by contacting the GeyserTimes [Board of Directors](mailto:boardsecretary@geysertimes.org).**
 
 **If you seek to file a legal claim against us, you agree to file and resolve it exclusively in a court located in Salt Lake City, Utah, United States of America. You also agree that the laws of the State of Utah and, to the extent applicable, the laws of the United States of America will govern these Terms, as well as any legal claim that might arise between you and us (without reference to conflict of laws principles). You agree to submit to the personal jurisdiction of, and agree that venue is proper in, the courts located in Salt Lake City, Utah, United States of America, in any legal action or proceeding relating to us or these Terms.**
 
