@@ -1,6 +1,6 @@
 ---
 title: "Help Center"
-sidebar_label: "Overview
+sidebar_label: "Overview"
 ---
 
 # GeyserTimes Help Center
