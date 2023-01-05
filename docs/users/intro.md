@@ -1,5 +1,5 @@
 ---
-title: "Overview"
+title: "Help Center"
 ---
 
 # GeyserTimes Help Center
