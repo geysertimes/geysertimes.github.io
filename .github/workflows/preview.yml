@@ -12,7 +12,7 @@ jobs:
       - name: Add comment to pull request
         uses: hasura/comment-progress@v2.2.0
         with:
-         github-token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
           repository: ${{ github.repository }}
           number: ${{ github.event.number }}
           id: deploy-preview
