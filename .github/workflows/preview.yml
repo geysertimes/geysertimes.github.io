@@ -1,0 +1,50 @@
+name: Deploy Preview to GitHub Pages
+
+on:
+  pull_request:
+    branches: [main]
+
+jobs:
+  deploy:
+    name: Deploy to GitHub Pages
+    runs-on: ubuntu-latest
+    steps:
+      - name: Add comment to pull request
+        uses: hasura/comment-progress@v2.2.0
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          repository: ${{ github.repository }}
+          number: ${{ github.event.number }}
+          id: deploy-preview
+          message: "Starting deployment of preview ⏳"
+      - name: Pull repository
+        uses: actions/checkout@v3
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+          cache: npm
+      - name: Build website
+        run: |
+          npm ci
+          npm run build
+        env:
+          URL: https://geysertimes.github.io
+          BASE_URL: docs-preview/pull/${{github.event.number}}
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          external_repository: geysertimes/docs-preview
+          publish_dir: ./build
+          destination_dir: ./pull/${{github.event.number}}
+      - name: Update comment on pull request
+        uses: hasura/comment-progress@v2.2.0
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          repository: ${{ github.repository }}
+          number: ${{ github.event.number }}
+          id: deploy-preview
+          message: "A preview of ${{ github.event.after }} is uploaded and can be seen here:\n\n ✨ ${{ env.FULL_URL }} ✨"
+        env:
+          FULL_URL: https://geysertimes.github.io/docs-preview/pull/${{github.event.number}}
