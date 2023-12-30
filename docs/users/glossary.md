@@ -66,9 +66,9 @@ The following words are commonly used to describe eruptive activity. Geyser term
 
 The following examples may help to clarify the meaning of the codes:
 
-**T2\*C:** Turban started before Grand, two bursts, second burst was >1m15s, Vent and Turban continued
-**V2/G1Q:** Grand erupted two Turban cycles after a Vent delay, Grand started before Turban, one burst, Vent and Turban quit
-**D5/D2/T1C:** Turban delay, then another Turban delay five cycles later, then Grand erupted after an additional two Turban cycles, Turban started first, one burst, Vent and Turban continued
+* **T2\*C:** Turban started before Grand, two bursts, second burst was >1m15s, Vent and Turban continued
+* **V2/G1Q:** Grand erupted two Turban cycles after a Vent delay, Grand started before Turban, one burst, Vent and Turban quit
+* **D5/D2/T1C:** Turban delay, then another Turban delay five cycles later, then Grand erupted after an additional two Turban cycles, Turban started first, one burst, Vent and Turban continued
 
 :::
 
@@ -142,6 +142,7 @@ The following examples may help to clarify the meaning of the codes:
 | Abbreviation | Description |
 | --- | --- |
 | **UNNG** | Unnamed Geyser |
+| **TD** | Temporary Designation |
 | **UGB** | Upper Geyser Basin |
 | **LGB** | Lower Geyser Basin |
 | **NGB** | Norris Geyser Basin |
@@ -153,5 +154,6 @@ The following examples may help to clarify the meaning of the codes:
 | **VR** | _Visitor report._ Used in the comments or observer fields when the entrant received word about the geyser activity from a Yellowstone visitor. |
 | **FRS** | _Family radio service._ Used in the comments or observer fields when the entrant received word about the geyser activity over a radio and cannot identify the observer. |
 | **YNM** | The code for the seismometer housed in the Norris Museum. |
-| **YNR** | The code for the seismometer just east of Norris. |
+| **YNB** | The code for the co-located seismometer and infrasound station in the Ragged Hills on the western side of Norris Geyser Basin.
+| **YNR** | The code for the seismometer just east of Norris Geyser Basin. |
 | **YFT** | The code for the seismometer nearest to Old Faithful. |
