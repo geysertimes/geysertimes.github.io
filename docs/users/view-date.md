@@ -93,7 +93,7 @@ Hover over or long click on eruptions and notes for popups with additional infor
 <TabItem value="web" label="Website">
 
 * Visit [GeyserTimes](https://geysertimes.org) with your browser.
-* Click **<<<** and **>>>** to go to other days.
+* Click **\<\<\<** and **>>>** to go to other days.
 
 </TabItem>
 <TabItem value="android" label="Android">
