@@ -8,7 +8,7 @@ module.exports = {
     {
       "View Data": [
         "users/get-started",
-        "users/view-date",
+        "users/view-data",
         "users/view-entry",
         "users/view-geyser",
         "users/view-predictions",

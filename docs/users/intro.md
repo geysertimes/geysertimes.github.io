@@ -7,7 +7,7 @@ title: "Overview"
 ## View data
 
 * [Get started with GeyserTimes](get-started.md)
-* [View the daily geyser activity](view-date.md)
+* [View the daily geyser activity](view-data.md)
 * [View details of eruptions and notes](view-entry.md)
 * [View the latest information on a geyser](view-geyser.md)
 * [View predictions](view-predictions.md)
