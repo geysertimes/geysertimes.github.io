@@ -44,7 +44,8 @@ module.exports = {
         "users/problem-sync",
         "users/problem-login",
         "users/problem-contributions"]
-    }
+    },
+    "users/sms"
   ],
   "researchers": [
     "researchers/intro",
