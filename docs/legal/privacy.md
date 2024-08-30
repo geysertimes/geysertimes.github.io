@@ -1,6 +1,6 @@
 # Privacy Policy
 
-_last revised on 4 March 2023_
+_last revised on 30 August 2024_
 
 This Privacy Policy outlines how and why personal data is processed, collected, stored, and shared when using services officially operated and provided by GeyserTimes as well as how personal data can be requested and deleted. 
 
@@ -22,6 +22,7 @@ Data | Purpose | Source | Retention Period
 IP address | Security and fraud prevention | Device | Up to 24 hours and until next login for GeyserTimes accounts
 Name _(only with account)_ | Attribution and credibility of data, account management | User input | Lifetime of GeyserTimes account
 Email address _(only with account)_ | Communications, account management | User input | Lifetime of GeyserTimes account
+Phone number _(only with account, optional)_ | Communications | User input | Lifetime of GeyserTimes account
 Account name _(only with account)_ | Unique identifier for attribution and credibility of data, account management | User input | Lifetime of GeyserTimes account
 Timestamp of account creation _(only with account)_ | Credibility of data | Device | Lifetime of GeyserTimes account
 Timestamp of last login _(only with account)_ | Security and fraud prevention | Device | Lifetime of GeyserTimes account
@@ -52,6 +53,7 @@ Crash logs _(optional)_ | Diagnosis and fixes for bugs and crashes | Google (Fir
 Diagnostics _(optional)_ | Performance improvements | Google (Google Analytics for Firebase)
 Page views _(optional)_ | Prioritization of development, analytics | Google (Google Analytics for Firebase)
 Firebase installation ID  | Synchronization of data | Google (Firebase Cloud Messaging)
+Phone number | SMS messaging | Twilio
 
 ## Server Location
 
@@ -79,6 +81,7 @@ PayPal ([Privacy Statement](https://www.paypal.com/us/webapps/mpp/ua/privacy-ful
 reCAPTCHA ([Privacy Policy](http://www.google.com/policies/privacy)) | Fraud prevention
 Firebase Crashlytics ([Privacy Policy](http://www.google.com/policies/privacy)) | Crash logs
 Google Analytics for Firebase ([Privacy Policy](http://www.google.com/policies/privacy)) | Diagnostics and page views
+Twilio ([Privacy Policy](https://www.twilio.com/en-us/legal/privacy)) | SMS messaging
 
 ## Cookies and Similar Technologies
 

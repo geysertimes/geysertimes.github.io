@@ -74,6 +74,37 @@ In your profile, you can view your contributions and manage your account. This i
 </TabItem>
 </Tabs>
 
+## Connect a phone number
+
+If you want to submit entries using our [SMS interface](/users/sms), you'll need to connect a phone number and verify it. This is required to properly attribute incoming entries and prevent misuse. We will never contact you on this number without your prior consent, nor will we share it with third-parties, except for those involved in message delivery. We are currently using Twilio to deliver SMS and you may review its privacy policy [here](https://www.twilio.com/en-us/legal/privacy).
+
+<Tabs groupId="os">
+<TabItem value="web" label="Website">
+
+* Visit [GeyserTimes](https://geysertimes.org) with your browser.
+* Log in to your account.
+* In the top toolbar, click **[👤 &lt;Username&gt;](https://geysertimes.org/user/)**.
+* In the **Tools** card, click **[Manage Profile](https://geysertimes.org/user/manageProfile.php)**.
+* Enter your phone number. 
+* Click **Submit**.
+* You'll receive a text message with a 6-digit verification code. Messaging rates may apply.
+* Enter your 6-digit verification code.
+* Click **Verify**.
+* You should now be able to submit entries using our SMS interface.
+
+</TabItem>
+<TabItem value="android" label="Android">
+
+This is not supported on Android yet. Please use the website to connect a phone number.
+
+</TabItem>
+<TabItem value="iOS" label="iOS">
+
+This is not supported on iOS yet. Please use the website to connect a phone number.
+
+</TabItem>
+</Tabs>
+
 ## Update your password
 
 <Tabs groupId="os">
