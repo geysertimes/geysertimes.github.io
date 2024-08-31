@@ -17,7 +17,7 @@ export const Highlight = ({children, color}) => (
 
 # SMS Interface (Satellite)
 
-Historically, access to GeyserTimes' data within Yellowstone National Park has been limited to areas with cell service, and among all the geyser basins, only the Upper Geyser Basin has adequate coverage. Starting fall 2024 this is finally set to change. Apple has announced general availability of satellite SMS messaging beginning in September 2024, and major mobile network operators have inked deals with satellite providers. T-Mobile has partnered with SpaceX's Starlink, with a launch expected later in 2024, and both AT&T and Verizon have invested in AST SpaceMobile, which is yet to deploy its first satellite.
+Historically, access to GeyserTimes' data within Yellowstone National Park has been limited to areas with cell service, and among all geyser basins, only the Upper Geyser Basin has adequate coverage. Starting fall 2024 this is finally set to change. Apple has announced general availability of satellite SMS messaging beginning in September 2024, and major mobile network operators have inked deals with satellite providers. T-Mobile has partnered with SpaceX's Starlink, with a launch expected later in 2024, and both AT&T and Verizon have invested in AST SpaceMobile, which is set to deploy its first satellite soon.
 
 At GeyserTimes, we want to make the most of this unprecedented opportunity by offering a SMS interface. This document outlines supported devices and how to interact with our conversational messaging agent. At this time it is completely separate to our Android and iOS apps, although we will consider various levels of integration in the future based on community feedback.
 
@@ -29,12 +29,12 @@ Please note that standard messaging rates apply, so keep this in mind if your pl
 
 ## Supported Devices
 
-There remain lots of unknowns as these are the early days of satellite messaging and it is likely this field will rapidly evolve. The table below is our best effort to summarize the current state. We strive to keep it updated as new information becomes available.
+Only a small number of handsets support non-SOS satellite messaging, although that list is expected to grow. The table below is our best effort to summarize the current state. We strive to keep it updated as new information becomes available.
 
-| Device             | Operating System   | Carrier  | Cost          | Notes         |
-|:-------------------|:-------------------|:---------|:--------------|:--------------|
-| iPhone 14 or later | iOS 18+            | all      | free, for now | announced [1] |
-| all                | Likely Android 15+ | T-Mobile | unknown       | announced [2] |
+| Device             | Operating System   | Carrier  | Cost          | Status           |
+|:-------------------|:-------------------|:---------|:--------------|:-----------------|
+| iPhone 14 or later | iOS 18+            | all      | free, for now | ETA Sep 2024 [1] |
+| Most Android       | Likely Android 15+ | T-Mobile | unknown       | ETA 2024 [2]     |
 
 1. https://www.apple.com/newsroom/2024/06/ios-18-makes-iphone-more-personal-capable-and-intelligent-than-ever/
 2. https://www.t-mobile.com/news/un-carrier/t-mobile-takes-coverage-above-and-beyond-with-spacex
@@ -71,6 +71,6 @@ All conversational messages are processed by an automated system and must thus a
 
 ## Limitations
 
-* Submissions made via SMS are completely independent of entries made on the Android or iOS apps. If you submit via both you will find that you'll have posted two separate entries for the same eruption. They will, however, be processed by the primary-secondary system and hence this should limited impact in practice.
+* Submissions made via SMS are completely independent of entries made on the Android or iOS apps. If you submit via both you will find that you'll have posted two separate entries for the same eruption. They will, however, be processed by the primary-secondary system and hence this should have limited impact in practice.
 * Submitted eruptions do not support Grand codes. This is a deliberate decision as the added complexity was not considered worth the effort given that Grand is located in an area of good cell service.
 * Submitted eruptions do not initially support observers. This is to limit character count and ease syntax requirements in light of its general perceived usefulness. If you think we should reconsider this, please reach out.
