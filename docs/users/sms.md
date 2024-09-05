@@ -29,12 +29,14 @@ Please note that standard messaging rates apply, so keep this in mind if your pl
 
 ## Supported Devices
 
-Only a small number of handsets support non-SOS satellite messaging, although that list is expected to grow. The table below is our best effort to summarize the current state. We strive to keep it updated as new information becomes available.
+Only a small number of consumer smartphones support non-SOS satellite messaging out of the box, although that list is expected to grow. If you don't mind purchasing an extra device, dedicated satellite messengers such as a Garmin inReach or ZOLEO have been around for years and remain an option. The table below is our best effort to summarize the current state and we aim to keep it updated as new information becomes available. If you are looking for specific recommendations, you may [contact us](mailto:support@geysertimes.org).
 
-| Device             | Operating System   | Carrier  | Cost          | Status           |
-|:-------------------|:-------------------|:---------|:--------------|:-----------------|
-| iPhone 14 or later | iOS 18+            | all      | free, for now | ETA Sep 2024 [1] |
-| Most Android       | Likely Android 15+ | T-Mobile | unknown       | ETA 2024 [2]     |
+| Device             | Operating System   | Carrier  | Cost                                                               | Status               |
+|:-------------------|:-------------------|:---------|:-------------------------------------------------------------------|:---------------------|
+| Garmin inReach     | &ndash;            | &ndash;  | [see plans](https://www.garmin.com/en-US/p/837461/pn/010-06002-SU) | 🟩 confirmed working |
+| ZOLEO              | &ndash;            | &ndash;  | [see plans](https://www.zoleo.com/en-us/plans)                     | 🟨 unknown           |
+| iPhone 14 or later | iOS 18+            | all      | free, for now                                                      | ETA Sep 2024 [1]     |
+| Most Android       | Likely Android 15+ | T-Mobile | unknown                                                            | ETA 2024 [2]         |
 
 1. https://www.apple.com/newsroom/2024/06/ios-18-makes-iphone-more-personal-capable-and-intelligent-than-ever/
 2. https://www.t-mobile.com/news/un-carrier/t-mobile-takes-coverage-above-and-beyond-with-spacex
