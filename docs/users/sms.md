@@ -41,7 +41,7 @@ Only a small number of handsets support non-SOS satellite messaging, although th
 
 ## Message Format
 
-All conversational messages are processed by an automated system and must thus adhere to a certain format. Each message must begin with a case-insensitive keyword that signifies the action that is executed. We support three different actions at this time:
+All conversational messages are processed by an automated system and must thus adhere to a certain format. Each message must begin with a case-insensitive keyword that signifies the action that is executed. We support three different actions:
 
 * The <kbd>next</kbd> keyword [retrieves a prediction](#retrieve-prediction) for a given geyser.
 * The <kbd>last</kbd> keyword [retrieves the latest eruption](#retrieve-last-eruption) of a given geyser.
@@ -73,4 +73,4 @@ All conversational messages are processed by an automated system and must thus a
 
 * Submissions made via SMS are completely independent of entries made on the Android or iOS apps. If you submit via both you will find that you'll have posted two separate entries for the same eruption. They will, however, be processed by the primary-secondary system and hence this should have limited impact in practice.
 * Submitted eruptions do not support Grand codes. This is a deliberate decision as the added complexity was not considered worth the effort given that Grand is located in an area of good cell service.
-* Submitted eruptions do not initially support observers. This is to limit character count and ease syntax requirements in light of its general perceived usefulness. If you think we should reconsider this, please reach out.
+* Submitted eruptions do not initially support observers. This is to reduce character count and simplify syntax requirements, given its limited practical value. If you think we should reconsider this, please reach out.
