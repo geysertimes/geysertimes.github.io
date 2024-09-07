@@ -33,10 +33,12 @@ Only a small number of consumer smartphones support non-SOS satellite messaging 
 
 | Device             | Operating System   | Carrier  | Cost                                                               | Status               |
 |:-------------------|:-------------------|:---------|:-------------------------------------------------------------------|:---------------------|
-| Garmin inReach     | &ndash;            | &ndash;  | [see plans](https://www.garmin.com/en-US/p/837461/pn/010-06002-SU) | 🟩 confirmed working |
+| Garmin inReach     | &ndash;            | &ndash;  | [see plans](https://www.garmin.com/en-US/p/837461/pn/010-06002-SU) | 🟨 partial support[^1] |
 | ZOLEO              | &ndash;            | &ndash;  | [see plans](https://www.zoleo.com/en-us/plans)                     | 🟨 unknown           |
 | iPhone 14 or later | iOS 18+            | all      | free, for now                                                      | ETA Sep 2024 [1]     |
 | Most Android       | Likely Android 15+ | T-Mobile | unknown                                                            | ETA 2024 [2]         |
+
+[^1]: Does not support submitting as Garmin inReach devices do not have fixed phone numbers. To retrieve information, you'll need to [disable SMS signatures](https://support.garmin.com/en-US/?faq=9Hy94BRi3dALwQ1kofKRO7&productID=765374&tab=topics) in your Garmin Explore account settings.
 
 1. https://www.apple.com/newsroom/2024/06/ios-18-makes-iphone-more-personal-capable-and-intelligent-than-ever/
 2. https://www.t-mobile.com/news/un-carrier/t-mobile-takes-coverage-above-and-beyond-with-spacex
