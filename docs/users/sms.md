@@ -17,6 +17,12 @@ export const Highlight = ({children, color}) => (
 
 # SMS Interface (Satellite)
 
+:::danger
+
+This interface is considered experimental. Keywords and syntax are subject to change until this notice is removed.
+
+:::
+
 Historically, access to GeyserTimes' data within Yellowstone National Park has been limited to areas with cell service, and among all geyser basins, only the Upper Geyser Basin has adequate coverage. Starting fall 2024 this is finally set to change. Apple has announced general availability of satellite SMS messaging beginning in September 2024, and major mobile network operators have inked deals with satellite providers. T-Mobile has partnered with SpaceX's Starlink, with a launch expected later in 2024, and both AT&T and Verizon have invested in AST SpaceMobile, which is set to deploy its first satellite soon.
 
 At GeyserTimes, we want to make the most of this unprecedented opportunity by offering a SMS interface. This document outlines supported devices and how to interact with our conversational messaging agent. At this time it is completely separate to our Android and iOS apps, although we will consider various levels of integration in the future based on community feedback.
@@ -35,13 +41,12 @@ Only a small number of consumer smartphones support non-SOS satellite messaging 
 |:-------------------|:-------------------|:---------|:-------------------------------------------------------------------|:---------------------|
 | Garmin inReach     | &ndash;            | &ndash;  | [see plans](https://www.garmin.com/en-US/p/837461/pn/010-06002-SU) | 🟨 partial support[^1] |
 | ZOLEO              | &ndash;            | &ndash;  | [see plans](https://www.zoleo.com/en-us/plans)                     | 🟨 unknown           |
-| iPhone 14 or later | iOS 18+            | all      | free, for now                                                      | ETA Sep 2024 [1]     |
-| Most Android       | Likely Android 15+ | T-Mobile | unknown                                                            | ETA 2024 [2]         |
+| iPhone 14 or later | iOS 18+            | all      | free, for now                                                      | 🟩 full support      |
+| Most Android       | Likely Android 15+ | T-Mobile | unknown                                                            | ETA 2024 [1]         |
 
 [^1]: Does not support submitting as Garmin inReach devices do not have fixed phone numbers. To retrieve information, you'll need to [disable SMS signatures](https://support.garmin.com/en-US/?faq=9Hy94BRi3dALwQ1kofKRO7&productID=765374&tab=topics) in your Garmin Explore account settings.
 
-1. https://www.apple.com/newsroom/2024/06/ios-18-makes-iphone-more-personal-capable-and-intelligent-than-ever/
-2. https://www.t-mobile.com/news/un-carrier/t-mobile-takes-coverage-above-and-beyond-with-spacex
+1. https://www.t-mobile.com/news/un-carrier/t-mobile-takes-coverage-above-and-beyond-with-spacex
 
 ## Message Format
 
