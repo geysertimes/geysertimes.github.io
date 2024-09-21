@@ -22,7 +22,7 @@ Data | Purpose | Source | Retention Period
 IP address | Security and fraud prevention | Device | Up to 24 hours and until next login for GeyserTimes accounts
 Name _(only with account)_ | Attribution and credibility of data, account management | User input | Lifetime of GeyserTimes account
 Email address _(only with account)_ | Communications, account management | User input | Lifetime of GeyserTimes account
-Phone number _(only with account, optional)_ | Communications | User input | Lifetime of GeyserTimes account
+Phone number _(only with account, optional)_ | Verification, communications | User input | Lifetime of GeyserTimes account
 Account name _(only with account)_ | Unique identifier for attribution and credibility of data, account management | User input | Lifetime of GeyserTimes account
 Timestamp of account creation _(only with account)_ | Credibility of data | Device | Lifetime of GeyserTimes account
 Timestamp of last login _(only with account)_ | Security and fraud prevention | Device | Lifetime of GeyserTimes account
@@ -42,6 +42,7 @@ The following data is transferred to a third party:
 Data | Purpose | Third Party
 --- | --- | ---
 Name _(only with account)_ | Attribution and credibility of data | Public (with account)
+Phone number _(only with account, optional)_ | SMS messaging | Twilio
 Account name _(only with account)_ | Unique identifier for attribution and credibility of data | Public
 Timestamp of account creation _(only with account)_ | Credibility of data | Public
 Timestamp of last login _(only with account)_ | Security and fraud prevention | Public
@@ -53,7 +54,6 @@ Crash logs _(optional)_ | Diagnosis and fixes for bugs and crashes | Google (Fir
 Diagnostics _(optional)_ | Performance improvements | Google (Google Analytics for Firebase)
 Page views _(optional)_ | Prioritization of development, analytics | Google (Google Analytics for Firebase)
 Firebase installation ID  | Synchronization of data | Google (Firebase Cloud Messaging)
-Phone number | SMS messaging | Twilio
 
 ## Server Location
 
@@ -66,6 +66,7 @@ The following external services are used:
 Provider | Purpose
 --- | ---
 Firebase Cloud Messaging ([Privacy Policy](http://www.google.com/policies/privacy)) | Synchronization of data
+Twilio ([Privacy Policy](https://www.twilio.com/en-us/legal/privacy)) | SMS messaging
 National Park Service ([Privacy Policy](https://www.nps.gov/aboutus/privacy.htm)) | Webcams
 Pixelcaster | Streaming webcam
 National Weather Service ([Privacy Policy](https://www.weather.gov/privacy)) | Weather forecast
@@ -81,7 +82,6 @@ PayPal ([Privacy Statement](https://www.paypal.com/us/webapps/mpp/ua/privacy-ful
 reCAPTCHA ([Privacy Policy](http://www.google.com/policies/privacy)) | Fraud prevention
 Firebase Crashlytics ([Privacy Policy](http://www.google.com/policies/privacy)) | Crash logs
 Google Analytics for Firebase ([Privacy Policy](http://www.google.com/policies/privacy)) | Diagnostics and page views
-Twilio ([Privacy Policy](https://www.twilio.com/en-us/legal/privacy)) | SMS messaging
 
 ## Cookies and Similar Technologies
 

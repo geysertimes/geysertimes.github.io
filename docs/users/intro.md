@@ -44,6 +44,10 @@ title: "Overview"
 * [Fix problems logging in to your GeyserTimes account](problem-login.md)
 * [Fix problems with contributing data](problem-contributions.md)
 
+## Use the SMS Interface
+
+* [Retrieve and submit data with the SMS interface](sms.md)
+
 ## Need more help?
 
 Send an email to our [support](mailto:support@geysertimes.org) to quickly solve your issue.

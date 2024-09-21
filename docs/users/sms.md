@@ -23,7 +23,7 @@ This interface is considered experimental. Keywords and syntax are subject to ch
 
 :::
 
-Historically, access to GeyserTimes' data within Yellowstone National Park has been limited to areas with cell service, and among all geyser basins, only the Upper Geyser Basin has adequate coverage. Starting fall 2024 this is finally set to change. Apple has announced general availability of satellite SMS messaging beginning in September 2024, and major mobile network operators have inked deals with satellite providers. T-Mobile has partnered with SpaceX's Starlink, with a launch expected later in 2024, and both AT&T and Verizon have invested in AST SpaceMobile, which is set to deploy its first satellite soon.
+Historically, access to GeyserTimes' data within Yellowstone National Park has been limited to areas with cell service, and among all geyser basins, only the Upper Geyser Basin has adequate coverage. Since September 2024, Apple supports satellite SMS messaging, and major mobile network operators have inked deals with satellite providers. T-Mobile has partnered with SpaceX's Starlink, with a launch expected later in 2024, and both AT&T and Verizon have invested in AST SpaceMobile, which is set to deploy its first satellite soon.
 
 At GeyserTimes, we want to make the most of this unprecedented opportunity by offering a SMS interface. This document outlines supported devices and how to interact with our conversational messaging agent. At this time it is completely separate to our Android and iOS apps, although we will consider various levels of integration in the future based on community feedback.
 

@@ -56,7 +56,6 @@ In your profile, you can view your contributions and manage your account. This i
 * Log in to your account.
 * In the bottom navigation bar, tap **Settings**. 
 * In the **Account** settings, tap **Manage Account**.
-* Tap **Forgot password?**.
 * Enter your updated name and your updated email address. 
 * Tap **Update Profile**.
 
@@ -67,7 +66,6 @@ In your profile, you can view your contributions and manage your account. This i
 * Log in to your account.
 * In the bottom navigation bar, tap **Settings**. 
 * In the **Account** settings, tap **Manage Account**.
-* Tap **Forgot password?**.
 * Enter your updated name and your updated email address.
 * Tap **Update Profile**.
 
@@ -76,7 +74,11 @@ In your profile, you can view your contributions and manage your account. This i
 
 ## Connect a phone number
 
-If you want to submit entries using our [SMS interface](/users/sms), you'll need to connect a phone number and verify it. This is required to properly attribute incoming entries and prevent misuse. We will never contact you on this number without your prior consent, nor will we share it with third-parties, except for those involved in message delivery. We are currently using Twilio to deliver SMS and you may review its privacy policy [here](https://www.twilio.com/en-us/legal/privacy).
+:::info
+
+Connecting and verifying a phone number is optional and only required to submit entries using the [SMS interface](/users/sms).
+
+:::
 
 <Tabs groupId="os">
 <TabItem value="web" label="Website">
@@ -124,7 +126,6 @@ This is not supported on iOS yet. Please use the website to connect a phone numb
 * Log in to your account.
 * In the bottom navigation bar, tap **Settings**. 
 * In the **Account** settings, tap **Manage Account**.
-* Tap **Forgot password?**.
 * Enter your old and updated password. 
 * Tap **Update Password**.
 
@@ -135,7 +136,6 @@ This is not supported on iOS yet. Please use the website to connect a phone numb
 * Log in to your account.
 * In the bottom navigation bar, tap **Settings**. 
 * In the **Account** settings, tap **Manage Account**.
-* Tap **Forgot password?**.
 * Enter your old and updated password. 
 * Tap **Update Password**.
 
