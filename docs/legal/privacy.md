@@ -1,6 +1,6 @@
 # Privacy Policy
 
-_last revised on 4 March 2023_
+_last revised on 30 August 2024_
 
 This Privacy Policy outlines how and why personal data is processed, collected, stored, and shared when using services officially operated and provided by GeyserTimes as well as how personal data can be requested and deleted. 
 
@@ -22,6 +22,7 @@ Data | Purpose | Source | Retention Period
 IP address | Security and fraud prevention | Device | Up to 24 hours and until next login for GeyserTimes accounts
 Name _(only with account)_ | Attribution and credibility of data, account management | User input | Lifetime of GeyserTimes account
 Email address _(only with account)_ | Communications, account management | User input | Lifetime of GeyserTimes account
+Phone number _(only with account, optional)_ | Verification, communications | User input | Lifetime of GeyserTimes account
 Account name _(only with account)_ | Unique identifier for attribution and credibility of data, account management | User input | Lifetime of GeyserTimes account
 Timestamp of account creation _(only with account)_ | Credibility of data | Device | Lifetime of GeyserTimes account
 Timestamp of last login _(only with account)_ | Security and fraud prevention | Device | Lifetime of GeyserTimes account
@@ -41,6 +42,7 @@ The following data is transferred to a third party:
 Data | Purpose | Third Party
 --- | --- | ---
 Name _(only with account)_ | Attribution and credibility of data | Public (with account)
+Phone number _(only with account, optional)_ | SMS messaging | Twilio
 Account name _(only with account)_ | Unique identifier for attribution and credibility of data | Public
 Timestamp of account creation _(only with account)_ | Credibility of data | Public
 Timestamp of last login _(only with account)_ | Security and fraud prevention | Public
@@ -64,6 +66,7 @@ The following external services are used:
 Provider | Purpose
 --- | ---
 Firebase Cloud Messaging ([Privacy Policy](http://www.google.com/policies/privacy)) | Synchronization of data
+Twilio ([Privacy Policy](https://www.twilio.com/en-us/legal/privacy)) | SMS messaging
 National Park Service ([Privacy Policy](https://www.nps.gov/aboutus/privacy.htm)) | Webcams
 Pixelcaster | Streaming webcam
 National Weather Service ([Privacy Policy](https://www.weather.gov/privacy)) | Weather forecast

@@ -47,7 +47,7 @@ The following words are commonly used to describe eruptive activity. Geyser term
 | --- | --- |
 | **~** | _Approximately._ Eruption is known to have lasted about the given time. |
 | **>** | _Greater than._ Eruption is known to have lasted at least the given time. |
-| **<** | _Less than._ Eruption is known to have lasted no more than the given time. |
+| **\<** | _Less than._ Eruption is known to have lasted no more than the given time. |
 
 ## Grand Code
 
