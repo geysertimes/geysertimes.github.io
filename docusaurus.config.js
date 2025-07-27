@@ -36,6 +36,11 @@ const config = {
 
   themeConfig:
     ({
+      colorMode: {
+        defaultMode: 'light',
+        disableSwitch: false,
+        respectPrefersColorScheme: true,
+      },
       navbar: {
         title: 'GeyserTimes',
         logo: {
