@@ -40,7 +40,7 @@ title: "Overview"
 
 ## Fix a problem
 
-* [Fix problems sycning data with the app](problem-sync.md)
+* [Fix problems syncing data with the app](problem-sync.md)
 * [Fix problems logging in to your GeyserTimes account](problem-login.md)
 * [Fix problems with contributing data](problem-contributions.md)
 
