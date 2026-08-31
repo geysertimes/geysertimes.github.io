@@ -1,6 +1,6 @@
 # Open Source Libraries & Attributions
 
-The **GeyserTimes for Android** application relies on several open-source libraries, frameworks, and SDKs. We are grateful to the open-source community and developers who build and maintain these projects.
+The **GeyserTimes for Android** (v.5.0.0a and above) application relies on several open-source libraries, frameworks, and SDKs. We are grateful to the open-source community and developers who build and maintain these projects.
 
 ## 🏗️ Architecture & Core Components
 
