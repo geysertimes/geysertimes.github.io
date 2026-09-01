@@ -1,7 +1,7 @@
 # GeyserTimes for Android 
 # Open Source Libraries & Attributions
 
-The **GeyserTimes for Android** (v5.0.0-alpha and abobe) application relies on several open-source libraries, frameworks, SDKs, and open data sources. We are grateful to the open-source community and contributors who build and maintain these projects.
+The **GeyserTimes for Android** (v5.0.0-alpha and above) application relies on several open-source libraries, frameworks, SDKs, and open data sources. We are grateful to the open-source community and contributors who build and maintain these projects.
 
 ## 🌍 Data & Database Licensing
 
